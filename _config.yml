@@ -103,7 +103,7 @@ social:
 author:
   name             : "Team EtherGroup"
   avatar           : "/assets/images/avatar.png"
-  bio              : "Ethergroup es una empresa mexicana dedicada a proveer servicios integrales en tecnologías de Información. Lideramos la transformación tecnológica de nuestros clientes paso a paso, de forma segura y fungimos como impulso a su negocio en esta era digital. En Ethergroup nos encanta compartir contenido te dejamos este espacio, que busca divulgar conocimiento de diferentes áreas."
+  bio              : "En Ethergroup nos encanta compartir contenido te dejamos este espacio, que busca divulgar conocimiento de diferentes áreas."
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
