@@ -105,7 +105,7 @@ author:
   avatar           : "/assets/images/avatar.png"
   bio              : "En Ethergroup nos encanta compartir contenido te dejamos este espacio, que busca divulgar conocimiento de diferentes áreas."
   uri              :
-  home             : # null (default), "absolute or relative url to link to author home"
+  home             : "https://ethergroup.mx/"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -116,7 +116,7 @@ author:
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/ethergroup/"
   lastfm           :
   linkedin         : "ethergroup" # (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
@@ -124,11 +124,11 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : "s4vitar"
+  twitter          :
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://youtube.com/c/s4vitar"
+  youtube          : "https://www.youtube.com/@ethergroup899"
 
 
 # Reading Files
