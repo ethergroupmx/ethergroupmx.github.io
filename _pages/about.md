@@ -20,7 +20,7 @@ Somos una empresa mexicana dedicada a proveer servicios integrales en tecnologí
 Nos gusta mantenernos en constante comunicación con nuestros actuales y futuros clientes, tenemos presencia en las más importantes redes sociales. ¿Quieres enterarte de noticias sobre tecnología y ciberseguridad? Entra a nuestro grupo de Telegram.
 
 <p align="center">
-<img src="/assets/images/00/50.png" style="width:50%;height:20%;" >
+<img src="/assets/images/00/50.png" style="width:30%;height:10%;" >
 </p>
 
 - [Link al grupo](https://t.me/EthergroupNews)
