@@ -7,13 +7,14 @@ date: 2020-01-29
 
 <br>
 
-<p align="center">
-<img src="/assets/images/00/01.png">
-</p>
-
 ## Nosotros
 
 Somos una empresa mexicana dedicada a proveer servicios integrales en tecnologías de Información. Lideramos la transformación tecnológica de nuestros clientes paso a paso, de forma segura y fungimos como impulso a su negocio en esta era digital.
+
+
+<p align="center">
+<img src="/assets/images/00/01.png">
+</p>
 
 ## EtherGroup-News
 
