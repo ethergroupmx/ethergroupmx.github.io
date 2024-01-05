@@ -5,7 +5,7 @@ excerpt: "Conocer las debilidades a tiempo permite reparar las vulnerabilidades 
 date: 2024-01-05
 classes: wide
 header:
-  teaser: /assets/images/51/preview1.png
+  teaser: /assets/images/51/preview1.jpg
   teaser_home_page: true
 categories:
   - Hacking
