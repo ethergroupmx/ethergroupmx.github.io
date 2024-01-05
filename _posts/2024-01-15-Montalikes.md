@@ -5,7 +5,7 @@ excerpt: "Usuarios de Whatsapp han recibido mensajes de propuestas falsas de tra
 date: 2024-01-05
 classes: wide
 header:
-  teaser: /assets/images/52/preview1.png
+  teaser: /assets/images/53/preview1.jpg
   teaser_home_page: true
 categories:
   - Hacking
