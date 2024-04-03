@@ -2,7 +2,7 @@
 layout: single
 title: "Google bloquea automáticamente emails no deseados contra el spam y el phishing"
 excerpt: "La compañía implementa estrictas directrices para remitentes masivos y fortalece la autenticación de mensajes para proteger a los usuarios de Gmail."
-date: 2024-04-04
+date: 2024-04-05
 classes: wide
 header:
   teaser: /assets/images/66/preview1.png
