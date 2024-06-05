@@ -17,7 +17,7 @@ tags:
 
 Todos los detalles acerca de GrapheneOS, un sistema operativo móvil basado en Android que te permite mantener al máximo tu privacidad en tu dispositivo. Quédate hasta el final y descubre la solución idónea si buscas alejarte de las grandes corporaciones en tu dispositivo móvil.
 
-![](/assets/images/72/072.png)
+![](/assets/images/72/072.jpeg)
 
 ## ¿Qué es GrapheneOS y para qué sirve?
 
