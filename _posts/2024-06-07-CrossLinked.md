@@ -19,7 +19,7 @@ Una de las partes de la metodología OSINT consiste en encontrar información ac
 
 Esta herramienta utiliza el scraping de los distintos motores de búsqueda de Internet contra la aplicación LinkedIn. Esta técnica proporciona resultados precisos sin necesidad de usar claves de API y sin acceder directamente a LinkedIn.
 
-### ¿Cómo funciona? 
+## ¿Cómo funciona? 
 
 Para poder utilizar esta herramienta en concreto, es necesario tener Python instalado en el sistema, más concretamente en su versión Pyhton3.
 
