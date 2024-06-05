@@ -2,7 +2,7 @@
 layout: single
 title: "CrossLinked – Herramienta OSINT para el descubrimiento de emails"
 excerpt: "Una de las partes de la metodología OSINT consiste en encontrar información acerca de personas relacionadas con la organización objetivo."
-date: 2024-05-07
+date: 2024-06-07
 classes: wide
 header:
   teaser: /assets/images/73/preview1.png
