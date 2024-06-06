@@ -25,7 +25,7 @@ Para poder utilizar esta herramienta en concreto, es necesario tener Python inst
 
 Para instalarla solo es necesario clonar el repositorio de la herramienta con la versión más actualizada del código:
 
-![](/assets/images/73/073-1.png)
+![](/assets/images/73/073-01.png)
 
 De esta manera se creará una carpeta que contendrá los scripts que usa la herramienta y donde se guardarán por defecto los ficheros que se generan con cada uso.
 
@@ -33,22 +33,22 @@ Para poder usar CrossLinked hace falta tener claro que nomenclatura de cuentas u
 
 El formato que utiliza CrossLinked puede ser de tres tipos:
 
-![](/assets/images/73/073-2.png)
+![](/assets/images/73/073-02.png)
 
 Un ejemplo básico de uso podría ser:
 
-![](/assets/images/73/073-3.png)
+![](/assets/images/73/073-03.png)
 
 Para especificar la nomenclatura se utiliza la opción -f, mientras que para especificar el nombre de los archivos que se generarán se utiliza la opción -o.
 
 Adicionalmente, se recomienda que para obtener mejores resultados se añada inmediatamente seguido de la nomenclatura el nombre de la compañía tal y como aparece en LinkedIn, no el nombre de dominio. De la manera:
 
-![](/assets/images/73/073-4.png)
+![](/assets/images/73/073-04.png)
 
 Resultados
 El resultado de la ejecución sería algo como:
 
-![](/assets/images/73/073-5.png)
+![](/assets/images/73/073-05.png)
 
 Una vez ejecutado, se generan dos tipos de ficheros:
 
