@@ -16,7 +16,7 @@ timezone:
 
 title: EtherGroup # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: Este es un espacio para compartir sobre temas de tecnologías, seguridad informática, ciberseguridad, ethical hacking, servidores y GNU/Linux. Aprende un poco más sobre este mundo con nosotros. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
  Este es un espacio para compartir sobre temas de tecnologías, seguridad informática, ciberseguridad, ethical hacking, servidores y GNU/Linux. Aprende un poco más sobre este mundo con nosotros.
