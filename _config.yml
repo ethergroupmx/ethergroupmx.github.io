@@ -34,9 +34,8 @@ social:
   email: contacto@ethergrouo.mx # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    # change to your twitter homepage
-    # change to your github homepage
-    # Uncomment below to add more social links
+     - https://www.youtube.com/@ethergroupmx
+     - https://www.instagram.com/ethergroup/
      - https://www.facebook.com/ethergroupmx
      - https://www.linkedin.com/company/ethergroup
 
