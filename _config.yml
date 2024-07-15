@@ -16,7 +16,7 @@ timezone: America/Monterrey
 
 title: EtherGroup # the main title
 
-tagline: Aprende un poco más sobre este mundo de tecnologías, seguridad informática, ciberseguridad, ethical hacking, servidores y GNU/Linux.. # it will display as the sub-title
+tagline: Aprende un poco más sobre este mundo de tecnologías, seguridad informática, ciberseguridad, ethical hacking, servidores y GNU/Linux. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
  Este es un espacio para compartir sobre temas de tecnologías, seguridad informática, ciberseguridad, ethical hacking, servidores y GNU/Linux. Aprende un poco más sobre este mundo con nosotros.
@@ -35,10 +35,6 @@ social:
   links:
     # The first element serves as the copyright owner's link
      - https://ethergroup.mx/
-     - https://www.youtube.com/@ethergroupmx
-     - https://www.instagram.com/ethergroup/
-     - https://www.facebook.com/ethergroupmx
-     - https://www.linkedin.com/company/ethergroup
 
 # Site Verification Settings
 webmaster_verifications:
@@ -92,11 +88,11 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://www.facebook.com/photo/?fbid=808055701337088&set=a.419534096855919
+avatar: /assets/00/01.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: # string, local or CORS resources
+social_preview_image: favicon.ico
 
 # boolean type, the global switch for TOC in posts.
 toc: true
