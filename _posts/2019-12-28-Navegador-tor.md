@@ -25,7 +25,7 @@ Si visitan el sitio del proyecto, verán que se encuentra un descargable listo p
 
 Para efectos prácticos, asumiré que ya cuentan con una distribución instalada. En mi caso la distribución está basada en Debian. En caso de tener alguna basada en otra distro padre, pueden consultar la siguiente liga que los llevará directamente al Github del proyecto.
 
-![Imagen 04](/assets/09/009-4.png)
+![Imagen 01](/assets/01/001-1.png)
 
 ### COMENCEMOS
 
