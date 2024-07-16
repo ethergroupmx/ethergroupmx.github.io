@@ -26,3 +26,7 @@
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
 #   url:  ''                  # Fill with your stackoverflow homepage
+
+ - type: Facebook
+    icon: "fab fa-facebook-square"
+    link: "https://www.facebook.com/ethergroupmx"
