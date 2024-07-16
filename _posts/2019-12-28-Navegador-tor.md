@@ -51,6 +51,7 @@ Ahora es momento de seguir las instrucciones correspondientes a la distribución
 
 Una vez tenemos la instalación de Tor, debemos saber que no es recomendable que se ejecute como el usuario con id "0" o sea "root". Este mesaje se obtiene al intentarlo:
 
+![Imagen 02](/assets/01/001-2.png)
 
 
 Existen muchos tutoriales para evitar esta validación que gratamente hace Tor antes de que nos carguen un bonito juguete en el navegador y terminemos infectados. Les recomiendo que no "bypasseen" esta validación. La mejor manera de hacerlo es la siguiente.
@@ -76,6 +77,7 @@ Con eso le permitiremos a "bob" el acceso a la pantalla de la sesión de "root".
     su bob
     torbrowser-launcher
 
+![Imagen 03](/assets/01/001-3.png)
 
 Con eso podremos navegar por la red de TOR en GNU/Linux. Les recomiendo que el usuario que creen, sea exclusivo para el uso de TOR, eso les dará un poco más de seguridad.
 
