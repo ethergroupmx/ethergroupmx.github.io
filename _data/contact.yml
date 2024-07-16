@@ -6,9 +6,9 @@
 # - type: twitter
 #  icon: "fa-brands fa-x-twitter"
 
-# - type: email
-#  icon: "fas fa-envelope"
-#  noblank: true # open link in current tab
+- type: email
+  icon: "fas fa-envelope"
+  noblank: true # open link in current tab
 
 # - type: rss
 #  icon: "fas fa-rss"
@@ -27,6 +27,3 @@
 #   icon: 'fab fa-stack-overflow'
 #   url:  ''                  # Fill with your stackoverflow homepage
 
- - type: Facebook
-    icon: "fab fa-facebook-square"
-    link: "https://www.facebook.com/ethergroupmx"
