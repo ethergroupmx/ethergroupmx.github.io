@@ -4,6 +4,7 @@ date: 2019-12-28 09:00:00
 categories: [LINUX]
 tags: [linux, ciberseguridad]
 description: El contenido de este artículo tiene como propósito compartir información para fines educativos.
+image: /assets/01/preview1.png
 ---
 
 ### El contenido de este artículo tiene como propósito compartir información para fines educativos.
