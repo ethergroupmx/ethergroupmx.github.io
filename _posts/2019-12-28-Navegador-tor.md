@@ -4,7 +4,6 @@ date: 2019-12-28 09:00:00
 categories: [LINUX]
 tags: [linux, ciberseguridad]
 description: El contenido de este artículo tiene como propósito compartir información para fines educativos.
-image: /assets/01/preview1.png
 ---
 
 ### El contenido de este artículo tiene como propósito compartir información para fines educativos.
@@ -24,8 +23,6 @@ La forma de navegar de forma "segura" con el navegador [Tor](https://www.torproj
 Si visitan el sitio del proyecto, verán que se encuentra un descargable listo para ser ejecutado en cualquier plataforma (en este caso estaremos ejecutándolo en Linux). Sin embargo y manteniendo lo lindo en GNU/Linux hagámoslo de mejor forma: compilemoslo.
 
 Para efectos prácticos, asumiré que ya cuentan con una distribución instalada. En mi caso la distribución está basada en Debian. En caso de tener alguna basada en otra distro padre, pueden consultar la siguiente liga que los llevará directamente al Github del proyecto.
-
-![Imagen 01](/assets/01/001-01.png)
 
 
 ### COMENCEMOS
@@ -52,7 +49,7 @@ Ahora es momento de seguir las instrucciones correspondientes a la distribución
 
 Una vez tenemos la instalación de Tor, debemos saber que no es recomendable que se ejecute como el usuario con id "0" o sea "root". Este mesaje se obtiene al intentarlo:
 
-![Imagen 02](/assets/01/001-02.png)
+
 
 Existen muchos tutoriales para evitar esta validación que gratamente hace Tor antes de que nos carguen un bonito juguete en el navegador y terminemos infectados. Les recomiendo que no "bypasseen" esta validación. La mejor manera de hacerlo es la siguiente.
 
@@ -77,7 +74,6 @@ Con eso le permitiremos a "bob" el acceso a la pantalla de la sesión de "root".
     su bob
     torbrowser-launcher
 
-![Imagen 03](/assets/01/001-03.png)
 
 Con eso podremos navegar por la red de TOR en GNU/Linux. Les recomiendo que el usuario que creen, sea exclusivo para el uso de TOR, eso les dará un poco más de seguridad.
 
