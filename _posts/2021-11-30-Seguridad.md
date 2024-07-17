@@ -2,7 +2,7 @@
 title: Invertir en seguridad es invertir en competitividad
 date: 2021-11-30 09:00:00 
 categories: [HACKING]
-tags: [hacking, malware]
+tags: [hacking, tecnología, news]
 description: Cada vez con más frecuencia vemos que los ciberdelincuentes utilizan formas más creativas para encontrar brechas y perpetrar delitos.
 image: /assets/19/preview1.png
 ---
