@@ -84,5 +84,3 @@ Con eso podremos navegar por la red de TOR en GNU/Linux. Les recomiendo que el u
 En los próximos días les daré una lista de Links para que puedan navegar y curiosear en la red de la cebolla. Pueden empezar con este buscador:
 
 Tor Search: http://kbhpodhnfxl3clb4.onion/
-
-_Happy hacking_
