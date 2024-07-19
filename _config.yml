@@ -139,7 +139,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "/blog_ethergroup"
+baseurl: "https://blog.ethergroup.mx/"
 
 # ------------ The following options are not recommended to be modified ------------------
 
