@@ -30,7 +30,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: EtherGroup
-  email: contacto@ethergrouo.mx # change to your email address
+  email: contacto@ethergroup.mx # change to your email address
   links:
     # The first element serves as the copyright owner's link
      - https://ethergroup.mx/
@@ -139,7 +139,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "/blog_ethergroup"
+baseurl: "/blog.ethergroup"
 
 # ------------ The following options are not recommended to be modified ------------------
 
