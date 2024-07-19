@@ -2,7 +2,7 @@
 title: Cómo mantener la privacidad durante las vacaciones
 date: 2024-04-03 09:00:00 
 categories: [CIBERSEGURIDAD]
-tags: [rede sociales, news]
+tags: [news, tecnología]
 description: Es crucial tomar medidas para proteger tu privacidad mientras disfrutas de tus días libres. Aquí te ofrecemos diez consejos fundamentales para garantizar la seguridad de tu información personal durante el período vacacional.
 image: /assets/62/preview1.png
 ---
