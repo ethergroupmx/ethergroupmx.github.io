@@ -8,7 +8,6 @@ image: /assets/62/preview1.png
 ---
 
 
-![imagen 01](/assets/62/062.jpg)
 
 Es crucial tomar medidas para proteger tu privacidad mientras disfrutas de tus días libres. Aquí te ofrecemos diez consejos fundamentales para garantizar la seguridad de tu información personal durante el período vacacional.
 

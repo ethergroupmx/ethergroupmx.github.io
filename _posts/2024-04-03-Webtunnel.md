@@ -6,8 +6,6 @@ tags: [tools, hacking]
 description: En un esfuerzo por combatir la censura en internet y promover una experiencia en la red personalizada y privada, Tor ha lanzado su más reciente innovación - WebTunnel.
 image: /assets/63/preview1.png
 ---
-
-![Imagen 01](/assets/63/063.jpeg) 
  
 En un esfuerzo por combatir la censura en internet y promover una experiencia en la red personalizada y privada, Tor ha lanzado su más reciente innovación: WebTunnel. Esta nueva configuración puente, incorporada en su última versión estable, está diseñada para ayudar a los usuarios en regiones represivas al simular tráfico HTTPS, facilitando la evasión de las restricciones sin ser detectados.
 
@@ -16,6 +14,8 @@ Están las VPN, una herramienta perfecta para cambiar de país y así poder acce
 Aquí es donde entra en juego Tor, el navegador web que consigue que navegues de forma totalmente anónima por internet, que ha lanzado una función llamada WebTunnel que ayuda a evitar la censura. 
 
 Así lo ha anunciado la compañía en su blog, donde también ha explicado cómo funciona esta herramienta. 
+
+![Imagen 01](/assets/63/063.png) 
 
 El WebTunnel es un tipo de puente que permite a las personas en regiones censuradas a la red Tor a través del navegador Tor. Estos puentes funcionan imitando el tráfico web cifrado (HTTPS) para que cualquier búsqueda parezca algo regular para los censores. 
 
