@@ -32,3 +32,32 @@ Es un escáner de inicio de sesión de fuerza bruta que intenta autenticarse en 
 ### robots_txt 
 
 Escanea un servidor o un rango de servidores en busca de la presencia y el contenido de un archivo robots.txt . Estos archivos pueden contener con frecuencia información valiosa que los administradores no quieren que los motores de búsqueda descubran.
+
+
+
+## Identificando configuraciones HTTPS
+
+### OpenSSL client
+
+Es un cliente que se encuentra dentro de cualquier distribución de GNU/Linux. Podemos probar la información que nos presenta haciéndo uso del comando:
+
+    openssl s_client -connect <host>:<port>
+
+### SSLYZE
+
+Esta herramienta nos permite analizar la configuración de SSL que tiene el servidor. Verifica desde lo más simple hasta la detección de vulnerabilidades. Su forma de uso es:
+
+    sslyze <host>
+
+### SSL and NMAP
+
+Gracias a los potentes scrips de análisis, nmap nos permite analizar y detectar huecos de seguridad. Para poder hacerlo, basta con ejecutar:
+
+    nmap --script ssl-enum-ciphers
+
+Las vulnerabilidades más comunes que puede encontrar son CRIME y POODLE.
+
+
+
+
+
