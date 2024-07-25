@@ -4,6 +4,7 @@ date: 2024-07-23 09:00:00
 categories: [HACKING]
 tags: [tools, ciberseguridad, hacking]
 description: Vulnerando sitios web haciéndo uso de módulos de Metasploit
+image: /assets/85/preview1.png
 ---
 
 ## Vulnerando sitios web haciéndo uso de módulos de Metasploit
