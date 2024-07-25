@@ -1,9 +1,9 @@
 ---
-title: Los peligros de usar Google Chrome como gestor de contraseñas
+title: Cryptomator, una herramienta para cifrar tus archivos antes de subirlos a la nube.
 date: 2024-05-07 09:00:00 
 categories: [CIBERSEGURIDAD]
 tags: [tools, ciberseguridad]
-description: En la era digital actual, la seguridad en línea se ha convertido en una prioridad para muchos usuarios. Una de las prácticas más comunes es el uso de gestores de contraseñas para mantener nuestras cuentas seguras y accesibles.
+description: Cryptomator es una herramienta sencilla para la autodefensa digital. Le permite proteger sus datos en la nube por sí mismo y de forma independiente.
 image: /assets/70/preview1.png
 ---
 
