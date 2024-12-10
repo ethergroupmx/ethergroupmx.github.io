@@ -16,6 +16,7 @@ Fragmento de código JavaScript analizado.
 Como se mencionó en la sección anterior, el archivo descargado es un comprimido en formato ZIP que sigue el patrón de nombre <2 letras-4 números-3 letras>.zip. Este contiene una carpeta vacía llamada “__data” y un archivo ejecutable X64, desarrollado en lenguaje C++, con un tamaño de aproximadamente 30MB, con el mismo nombre que el archivo comprimido.
 
 ![Imagen 00](/assets/101/101-02.png)
+
 Contenido del archivo ZIP descargado.
 
 ![Imagen 00](/assets/101/101-03.png)
@@ -24,6 +25,7 @@ Información general del archivo ejecutable.
 El ejecutable importa diversas bibliotecas, como Kernel32.dll, User32.dll y Ole32.dll, que en conjunto permiten acceder a recursos del sistema, como archivos, servicios y procesos, además de facilitar la manipulación de datos. También incluye bibliotecas de la serie API-MS-CRT (Microsoft C Runtime Library), que cuentan con funciones como la generación de valores aleatorios, operaciones de fecha y hora, acceso a variables de entorno, configuración del sistema, además de la  manipulación de cadenas, entre otras.
 
 ![Imagen 00](/assets/101/101-04.png)
+
 Bibliotecas importadas por el archivo ejecutable.
 
 Al ejecutarse, el archivo mencionado actúa inicialmente como dropper, extrayendo un archivo ZIP en la ubicación %ProgramData%/[directorio con nombre de letras aleatorias]. Este contiene una copia de sí mismo y una DLL maliciosa desarrollada en .NET, que funciona como loader para la carga útil final del troyano. Los nombres del archivo ZIP, de los archivos contenidos y del directorio creado son cadenas aleatorias de longitud variable, sin un patrón identificable hasta el momento.
@@ -56,6 +58,7 @@ Posteriormente la DLL, desarrollada en C# .NET y ofuscada con base64,  también 
 - Mediante las API CreateThread y WaitForSingleObject inyecta el payload final del troyano en memoria.
 
   ![Imagen 00](/assets/101/101-10.png)
+  
   Inyección del Payload final de Silver Shifting Yak.
 
   ![Imagen 00](/assets/101/101-11.png)
@@ -69,6 +72,7 @@ Cadenas identificadas en memoria y relacionadas con el monitoreo de institucione
 Durante el análisis, se identificaron alrededor de 50 bancos e instituciones financieras de interés para Silver Shifting Yak, incluyendo entidades como Mercado Pago y Binance, así como servicios de Microsoft como Azure, Live y Hotmail.
 
 ![Imagen 00](/assets/101/101-13.png)
+
 Sitios de instituciones bancarias de interés para Silver Shifting Yak.
 
 Es importante destacar que durante el análisis se identificaron coincidencias en algunas capacidades y herramientas utilizadas por Silver Shifting Yak, Silver Oryx Blade[1] y Coyote, como el uso de cifrado AES para ciertas cadenas en la cadena de infección, WebSockets para la comunicación con el C2, el monitoreo de tráfico web y la utilización del framework Json.NET de Newtonsoft para la manipulación de datos transmitidos al C2, así como Fody Costura para incrustar recursos .NET.
@@ -86,6 +90,7 @@ SCILabs, con nivel de confianza medio, tiene la hipótesis de que los operadores
 A continuación, se presentan las principales características distintivas de Silver Shifting Yak, contrastadas con campañas previamente observadas del troyano Silver Oryx Blade y Coyote en la región. Este análisis tiene como objetivo brindar mayor claridad en la identificación de esta nueva amenaza para futuras investigaciones.
 
 ![Imagen 00](/assets/101/101-14.png)
+
 Diferencias entre Silver Oryx Blade y Coyote.
 
 En conclusión, los tres troyanos presentan diferencias significativas en sus artefactos y TTP; sin embargo, comparten similitudes clave, como el uso de lenguajes C++ y C#, cifrado AES, ofuscación mediante MD5, bibliotecas compartidas y técnicas de desarrollo que pueden revelar pistas sobre la metodología de un actor de amenazas, como el uso de GUID para aleatorizar cadenas. Este análisis nos permite plantear la hipótesis de que los tres troyanos son operados por los mismos actores de amenaza. Por lo tanto, SCILabs llevará a cabo un perfilamiento de amenazas para confirmar o descartar esta hipótesis.
@@ -132,5 +137,4 @@ SCILabs considera fundamental que instituciones y empresas monitoreen actualizac
 - hxxps[:]//nvidrive[.]com/download/b12aa4d64c6edf95dad972b211b79a64
 - hxxps[:]//circulomaximo[.]com/0764851f-9f5b-44ae-9c3b-31daec27f939?d=NGE1MjdmODNhM2E0Y2E3ZTFkNzBhZGIyNmEzNWI3MmU=&t=2&p=MjAyNC0wOS0yM1QwODo0NzozNi43MjBa
 - hxxps[:]//stakbeef[.]com/mickipbbgblzsdtwieljmons/jwijlmpriowikhgaiqbraydrxbd/mtyuzwakzcgjgjqhfjjcrgcro/?d=NGE1MjdmODNhM2E0Y2E3ZTFkNzBhZGIyNmEzNWI3MmU=&t=2&p=MjAyNC0xMC0yOVQxODo1MToxOC4xMzla
-- 
 
