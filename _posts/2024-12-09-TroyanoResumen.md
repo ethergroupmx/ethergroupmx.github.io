@@ -2,7 +2,7 @@
 title: Resumen técnico troyano Silver Shifting Yak
 date: 2024-12-09 09:00:00 
 categories: [CIBERSEGURIDAD]
-tags: [hacking, vulnerabilidad, malware ciberataques, ciberseguridad]
+tags: [hacking, vulnerabilidad, malware, ciberataques, ciberseguridad]
 description: Al analizar el código fuente de la página alojada en el dominio nvidrive[.]com mencionado anteriormente...
 image: /assets/101/preview1.png
 ---
