@@ -51,7 +51,7 @@ El proyecto OpenCTI (Open Cyber Threat Intelligence) es una plataforma destinada
 
 Los datos son estructurados a partir de la estandarización STIX2 (Structured Threat Information eXpression). Además, unas de las principales ventajas de OpenCTI es que permite integrarse con otras herramientas como MISP, MITRE ATT&CK, entre otros.
 
-![Imagen 04](/assets/108/109-04.jpg)
+![Imagen 04](/assets/109/109-04.jpg)
 
 *Ejemplo de visualización en Open CTI*
 
