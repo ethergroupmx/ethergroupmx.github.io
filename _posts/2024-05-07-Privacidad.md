@@ -3,7 +3,7 @@ title: Qué hacer si alguien vulneró tu privacidad personal
 date: 2024-06-07 09:00:00 
 categories: [CIBERSEGURIDAD]
 tags: [vulnerabilidad, ciberseguridad, tecnología]
-description: La nube. Esa nube a la que subimos archivos y no nos preocupamos de ello. Pues para que puedas subir archivos de forma segura a esa nube os traemos Cryptomator.
+description: La nube. Esa nube a la que subimos archivos y no nos preocupamos de ello. Pues para que puedas subir archivos de forma segura a esa nube les traemos Cryptomator.
 image: /assets/75/preview1.png
 ---
 
