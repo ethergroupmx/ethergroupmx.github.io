@@ -28,7 +28,7 @@ Uno de sus componentes clave es la implementación de una versión ofuscada de R
 
 Para evadir aún más la detección, la campaña incorpora una función lambda para ofuscar el código, un método que recuerda a los utilizados por el conocido grupo de ciberdelincuencia FIN7. Por último, los operadores de STAC5143 establecen conexiones con sus servidores C2 a través del puerto 80, probablemente en un intento de mimetizarse con el tráfico HTTP normal y eludir las medidas de seguridad habituales.
 
-![Imagen 01](/assets/111/111-01.jpg){: width="300" height="200"}
+![Imagen 01](/assets/111/111-01.jpg)
 ###### _Código Python de una copia ofuscada de RPivot en el archivo winter.zip (Fuente: Sophos)_
 
 **Campaña STAC5777**: La campaña STAC5777 es un ciberataque sofisticado que utiliza una combinación de software legítimo y componentes maliciosos para infiltrarse y persistir en los sistemas objetivo.
