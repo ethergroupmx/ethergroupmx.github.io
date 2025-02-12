@@ -58,7 +58,7 @@ Con el modo incógnito, tus actividades en Internet se ocultan solo a los demás
 
 - **No te protege de ciberamenazas**
 
-  Si bien el modo incógnito puede aumentar tu privacidad en línea, no te protege de ciberamenazas como phishing, malware o sitios web falsos.
+Si bien el modo incógnito puede aumentar tu privacidad en línea, no te protege de ciberamenazas como phishing, malware o sitios web falsos.
 
 En resumen, el principal beneficio del modo incógnito es impedir que las demás personas que comparten un dispositivo contigo vean tu historial de navegación. Pero si buscas tener mayor privacidad en
 línea, necesitas usar una VPN.
