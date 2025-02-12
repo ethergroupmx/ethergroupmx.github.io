@@ -3,7 +3,7 @@ title: Los atacantes difunden ransomware a través de Microsoft Teams mediante l
 date: 2025-02-11 09:00:00 
 categories: [HACKING]
 tags: [ciberseguridad, ciberataques, hacking, ransonware]
-description: Informe de Kaspersky Lab revela que el 52% de las empresas admite que el personal es la mayor debilidad de su seguridad informática.
+description: Dos campañas de ransomware distintas explotan Microsoft Teams para obtener acceso no autorizado a organizaciones específicas.
 image: /assets/111/preview1.png
 ---
 
