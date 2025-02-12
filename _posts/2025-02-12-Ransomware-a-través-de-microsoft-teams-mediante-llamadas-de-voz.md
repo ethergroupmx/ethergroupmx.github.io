@@ -1,6 +1,6 @@
 ---
 title: Los atacantes difunden ransomware a través de Microsoft Teams mediante llamadas de voz
-date: 2025-02-12 09:00:00 
+date: 2025-02-11 09:00:00 
 categories: [HACKING]
 tags: [ciberseguridad, ciberataques, hacking, ransonware]
 description: Informe de Kaspersky Lab revela que el 52% de las empresas admite que el personal es la mayor debilidad de su seguridad informática.
