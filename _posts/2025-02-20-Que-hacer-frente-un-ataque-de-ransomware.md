@@ -4,7 +4,7 @@ date: 2025-02-20 09:00:00
 categories: [CIBERSEGURIDAD]
 tags: [ciberseguridad, ciberataques, ransonware]
 description: Qué hacer frente a una de las amenazas más temidas en el mundo digital y cómo enfrentar el hecho de haber sido víctimas para minimizar los daños.
-image: /assets/112/preview1.png
+image: /assets/113/preview1.png
 ---
 
 El ransomware es un tipo de malware que que a pesar de haber evolucionado desde su origen, escencialemente es un tipo de malware que cifra los archivos de un dispositivo y exige un pago, generalmente en criptomonedas, para recuperarlos.
