@@ -43,19 +43,19 @@ Muchos ransomware tienen patrones específicos. Es importante Investigar el mens
 
 Reportar el ataque a las autoridades locales o a organismos especializados en ciberseguridad, como el Centro de Respuesta a Incidentes de Seguridad Informática (CERT) de tu país es muy importante tanto para recibir como aportar información. En entornos corporativos, notifica al departamento de TI de inmediato.
 
-- **Aísla el dispositivo**
+### Aísla el dispositivo
 
 Si no lo has hecho aún, coloca el dispositivo en cuarentena. Esto puede implicar apagarlo o retirarlo físicamente del entorno de trabajo para evitar que el malware siga activo.
 
-- **Busca asesoramiento profesional**
+### Busca asesoramiento profesional
 
 Si no tienes conocimientos técnicos avanzados, contacta a un especialista en ciberseguridad. Ellos pueden analizar la situación, evaluar el nivel de daño y ofrecer opciones viables para recuperación.
 
-- **Restaura desde copias de seguridad**
+### Restaura desde copias de seguridad
 
 Si tienes una copia de seguridad reciente y no está afectada, este es el momento de utilizarla. Formatea el dispositivo afectado y restaura tus datos desde la copia segura.
 
-- **Aprende y refuerza tu seguridad**
+### Aprende y refuerza tu seguridad
 
 Después de un ataque de ransomware, la prioridad debe ser evitar futuros incidentes. Veamos algunas recomendaciones:
 
