@@ -2,7 +2,7 @@
 title: Los atacantes difunden ransomware a través de Microsoft Teams mediante llamadas de voz
 date: 2025-02-11 09:00:00 
 categories: [HACKING]
-tags: [ciberseguridad, ciberataques, hacking, ransonware]
+tags: [ciberseguridad, ciberataques, hacking, ransomware]
 description: Dos campañas de ransomware distintas explotan Microsoft Teams para obtener acceso no autorizado a organizaciones específicas.
 image: /assets/111/preview1.png
 ---
