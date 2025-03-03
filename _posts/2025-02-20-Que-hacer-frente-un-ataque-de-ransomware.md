@@ -2,7 +2,7 @@
 title: Me atacó un ransomware, ¿qué hago?
 date: 2025-02-20 09:00:00 
 categories: [CIBERSEGURIDAD]
-tags: [ciberseguridad, ciberataques, ransonware]
+tags: [ciberseguridad, ciberataques, ransomware]
 description: Qué hacer frente a una de las amenazas más temidas en el mundo digital y cómo enfrentar el hecho de haber sido víctimas para minimizar los daños.
 image: /assets/113/preview1.png
 ---
