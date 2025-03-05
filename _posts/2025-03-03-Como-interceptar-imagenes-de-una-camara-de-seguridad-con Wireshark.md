@@ -15,7 +15,7 @@ Una característica que los dispositivos de Internet de las cosas suelen tener e
 
 En el caso de las cámaras de seguridad, este problema se agrava si la cámara también aloja una página web insegura en la que el propietario puede ver la reproducción de vídeo directamente desde la cámara. Si este es el caso, cualquier otra persona que conozca la contraseña de Wi-Fi puede ver exactamente lo que el objetivo está viendo en la cámara de seguridad. Como la mayoría de las empresas o casas con una cámara tienen un monitor configurado para ver la cámara, esto puede ser una verdadera preocupación para los usuarios con contraseñas débiles u otras personas que comparten la red.
 
-### Los puertos 80 y 81 no son seguros
+### Los puertos 80 y 81 no son seguros
 
 Al escanear dispositivos con Wireshark , es muy probable que vea algunos puertos abiertos en dispositivos como enrutadores, cámaras de seguridad y otros dispositivos IoT habilitados para Wi-Fi. Si ve un puerto 80, 81, 8080 u 8081, es muy probable que esto signifique que hay un sitio web HTTP inseguro alojado en ese puerto. Si bien debe conocer la contraseña de una red Wi-Fi para escanear estos puertos, puede acceder a ellos a través de la red Wi-Fi para inspeccionar la aplicación web que alojan.
 
