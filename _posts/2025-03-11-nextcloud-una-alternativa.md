@@ -1,5 +1,5 @@
 ---
-title: NextCloud vs. Google Drive y Dropbox: ¿Por qué es la mejor opción?
+title: NextCloud vs Google Drive y Dropbox: ¿Por qué es la mejor opción?
 date: 2025-03-11 09:00:00 
 categories: [CLOUD]
 tags: [news, tecnología, cloud]
