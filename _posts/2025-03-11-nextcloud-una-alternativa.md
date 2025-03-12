@@ -41,6 +41,6 @@ En Ethercloud, nuestra solución CollabSpace se basa en Nextcloud, una plataform
 
 ![Imagen 01](/assets/119/119-05.png)
 
-Contáctanos hoy mismo y lleva la productividad de tu equipo al siguiente nivel. [EtherCloud - CollabSpace](https://ethercloud.mx/)! 
+### Contáctanos hoy mismo y lleva la productividad de tu equipo al siguiente nivel. ¡[EtherCloud - CollabSpace](https://ethercloud.mx/)! 
 
 
