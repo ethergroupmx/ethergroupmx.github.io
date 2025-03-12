@@ -21,17 +21,17 @@ Un componente clave que convierte a NextCloud en una alternativa viable a Dropbo
 
 ### Ventajas de Nextcloud frente a Google Drive y Dropbox
 
-**Control Total sobre tus Datos**: Con Nextcloud, tienes el control completo de tus datos, ya que puedes alojarlo en tu propio servidor. Esto te garantiza mayor privacidad y seguridad en comparación con Google Drive y Dropbox, que almacenan tus archivos en servidores externos.
+**Control total sobre tus datos**: Con Nextcloud, tienes el control completo de tus datos, ya que puedes alojarlo en tu propio servidor. Esto te garantiza mayor privacidad y seguridad en comparación con Google Drive y Dropbox, que almacenan tus archivos en servidores externos.
 
-**Personalización y Flexibilidad**: A diferencia de Google Drive y Dropbox, Nextcloud es una solución de código abierto que te permite personalizar y adaptar la plataforma según las necesidades específicas de tu organización, lo que no es posible con las opciones comerciales.
+**Personalización y flexibilidad**: A diferencia de Google Drive y Dropbox, Nextcloud es una solución de código abierto que te permite personalizar y adaptar la plataforma según las necesidades específicas de tu organización, lo que no es posible con las opciones comerciales.
 
-**Sin Límites de Almacenamiento**: En Nextcloud, puedes ajustar la capacidad de almacenamiento según tus necesidades, sin las restricciones que suelen imponer Google Drive y Dropbox, que, en muchos casos, requieren planes de pago para acceder a más espacio.
+**Sin límites de almacenamiento**: En Nextcloud, puedes ajustar la capacidad de almacenamiento según tus necesidades, sin las restricciones que suelen imponer Google Drive y Dropbox, que, en muchos casos, requieren planes de pago para acceder a más espacio.
 
-**Integración con Herramientas de Terceros**: Nextcloud se integra fácilmente con diversas aplicaciones de productividad y sistemas de gestión de contenido, lo que te permite optimizar tu flujo de trabajo sin depender de una plataforma centralizada, como ocurre en Google Drive o Dropbox.
+**Integración con herramientas de terceros**: Nextcloud se integra fácilmente con diversas aplicaciones de productividad y sistemas de gestión de contenido, lo que te permite optimizar tu flujo de trabajo sin depender de una plataforma centralizada, como ocurre en Google Drive o Dropbox.
 
-**Mayor Seguridad y Privacidad**: Nextcloud permite cifrar tus archivos tanto en reposo como en tránsito, lo que refuerza la seguridad de tus datos. Además, al ser una solución autoalojada, no dependes de terceros para gestionar tu información personal y profesional, mientras que Google Drive y Dropbox requieren que confíes en sus políticas de privacidad.
+**Mayor seguridad y privacidad**: Nextcloud permite cifrar tus archivos tanto en reposo como en tránsito, lo que refuerza la seguridad de tus datos. Además, al ser una solución autoalojada, no dependes de terceros para gestionar tu información personal y profesional, mientras que Google Drive y Dropbox requieren que confíes en sus políticas de privacidad.
 
-**Sin Publicidad ni Datos Compartidos**: Con Nextcloud, no hay anuncios ni el uso de tus datos para fines comerciales, a diferencia de Google Drive, que utiliza la información almacenada para ofrecerte publicidad dirigida.
+**Sin publicidad ni datos compartidos**: Con Nextcloud, no hay anuncios ni el uso de tus datos para fines comerciales, a diferencia de Google Drive, que utiliza la información almacenada para ofrecerte publicidad dirigida.
 
 En resumen, Nextcloud ofrece una solución más segura, flexible y personalizada en comparación con Google Drive y Dropbox, ideal para quienes buscan privacidad, control y una mayor capacidad de personalización en la gestión de sus datos.
 
