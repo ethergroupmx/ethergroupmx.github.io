@@ -1,10 +1,10 @@
 ---
-title: NextCloud vs Google Drive y Dropbox: ¿Por qué es la mejor opción?
+title: Cómo la inteligencia artificial está facilitando el fraude de identificación
 date: 2025-03-11 09:00:00 
 categories: [CLOUD]
 tags: [news, tecnología, cloud]
-description: NextCloud supera a Google Drive y Dropbox al ofrecer almacenamiento en la nube sin límites de datos, mayor privacidad y control total, además de ser de código abierto y autoalojado.
-image: /assets/119/preview1.png
+description: La IA también se utiliza para ayudar a los ciberdelincuentes a ser más productivos, especialmente cuando se trata de fraude de identidad, el tipo de fraude más común hoy en día.
+image: /assets/118/preview1.png
 ---
 
 El almacenamiento en la nube es un servicio fácil de encontrar últimamente. Sin embargo, algunas de estas plataformas presentan limitaciones imprevistas. Por ejemplo, tus datos nunca son realmente "privados" al almacenarlos en una plataforma más grande. Dado que se rumorea que empresas como Google tienen la autoridad para acceder a los datos de sus usuarios, esto puede ser una señal de alerta para muchos. 
