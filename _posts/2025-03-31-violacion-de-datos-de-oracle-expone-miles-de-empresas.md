@@ -3,7 +3,7 @@ title: Supuesta violación de datos de Oracle expone miles de empresas (confirma
 date: 2025-03-31 09:00:00 
 categories: [CIBERATAQUES]
 tags: [ciberataques, vulnerabilidad, news]
-description:La negación por parte de Oracle contradice las conclusiones de BleepingComputer, que recibió muestras adicionales de los datos filtrados del atacante y contactó a las empresas asociadas.
+description: La negación por parte de Oracle contradice las conclusiones de BleepingComputer, que recibió muestras adicionales de los datos filtrados del atacante y contactó a las empresas asociadas.
 image: /assets/122/preview1.png
 ---
 
