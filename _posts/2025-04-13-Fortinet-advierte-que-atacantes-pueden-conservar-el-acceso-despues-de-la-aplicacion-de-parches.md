@@ -27,5 +27,3 @@ Como medidas adicionales para evitar que estos problemas vuelvan a ocurrir, se h
 **Se recomienda a los clientes que actualicen sus instancias a las versiones 7.6.2, 7.4.7, 7.2.11, 7.0.17 o 6.4.16 de FortiOS,** revisen las configuraciones de los dispositivos, las consideren potencialmente comprometidas y realicen las acciones de recuperación adecuadas.
 
 CISA ha emitido un aviso propio, instando a los usuarios a restablecer las credenciales expuestas y a considerar la desactivación de la funcionalidad SSL-VPN hasta que se puedan aplicar los parches. El Equipo de Respuesta a Emergencias Informáticas de Francia (CERT-FR), en un boletín similar, afirmó tener conocimiento de vulnerabilidades que se remontan a principios de 2023.
-
-- 
