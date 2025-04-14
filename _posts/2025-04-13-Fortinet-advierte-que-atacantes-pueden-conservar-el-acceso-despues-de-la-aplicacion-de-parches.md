@@ -3,11 +3,11 @@ title: Fortinet advierte que atacantes pueden conservar el acceso después de la
 date: 2025-04-13 09:00:00 
 categories: [CIBERATAQUES]
 tags: [ciberataques, vulnerabilidad, news]
-description: Fortinet ha revelado que actores de amenazas han encontrado una manera de mantener el acceso de solo lectura a dispositivos FortiGate vulnerables
+description: Fortinet ha revelado que actores de amenazas han encontrado una manera de mantener el acceso de solo lectura a dispositivos FortiGate vulnerables...
 image: /assets/124/preview1.png
 ---
 
-Incluso después de que se parcheara el vector de acceso inicial utilizado para vulnerarlos.
+incluso después de que se parcheara el vector de acceso inicial utilizado para vulnerarlos.
 
 Se cree que los atacantes aprovecharon vulnerabilidades de seguridad conocidas y ahora parcheadas, incluyendo, entre otras, CVE-2022-42475, CVE-2023-27997, y CVE-2024-21762.
 
