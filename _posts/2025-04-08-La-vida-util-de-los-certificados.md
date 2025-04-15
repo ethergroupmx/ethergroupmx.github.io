@@ -1,6 +1,6 @@
 ---
 title: La vida útil de los certificados SSL/TLS se reducirá a 47 días para 2029
-categories: [CIBESEGURIDAD]
+categories: [CIBERSEGURIDAD]
 tags: [ciberseguridad, news]
 description: El Foro de Autoridades de Certificación/Navegadores ha votado a favor de reducir significativamente la vida útil de los certificados SSL/TLS.
 image: /assets/126/preview1.png
