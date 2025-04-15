@@ -4,7 +4,7 @@ date: 2025-04-08 09:00:00
 categories: [CIBERSEGURIDAD]
 tags: [android, ciberataques, news, ciberseguridad]
 description: La red Find My de Apple se puede aprovechar para rastrear de forma remota dispositivos Android, Windows y Linux de otros proveedores
-image: /assets/125/preview1.png
+image: /assets/127/preview1.png
 ---
 
 Los AirTags son un dispositivo de rastreo popular utilizado por todos, desde propietarios olvidadizos de llaves hasta los malintencionados, como cónyuges celosos y ladrones de coches. Usar AirTags para espiar es sencillo: se coloca discretamente una etiqueta en el objetivo para permitir supervisar cómodamente sus movimientos mediante Apple Find My. Incluso hemos añadido protección contra el seguimiento basado en AirTag a nuestros productos para Android.
