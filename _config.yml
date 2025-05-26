@@ -14,7 +14,7 @@ timezone: America/Monterrey
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: EtherGroup # the main title
+title: Ethergroup # the main title
 
 tagline: Aprende un poco más sobre este mundo de tecnologías, seguridad informática, ciberseguridad, ethical hacking, servidores y GNU/Linux. # it will display as the sub-title
 
@@ -29,7 +29,7 @@ url: "https://blog.ethergroup.mx"
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: EtherGroup
+  name: Ethergroup
   email: contacto@ethergroup.mx # change to your email address
   links:
     # The first element serves as the copyright owner's link
