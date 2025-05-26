@@ -10,12 +10,12 @@ image: /assets/132/preview1.png
 
 ## Instalación de servicio de base de datos en los nodos
 
-En este artÃ­culo abordaremos la creación de un clúster de alta disponibilidad con GALERA. Esta herramienta permite agregar nodos de MariaDB a un clúster el cual replicará automáticamente lo que suceda en un nodo. Esto sirve para aplicaciones con requerimiento de alta disponibilidad y puede agregarse un Proxy que gestione los servicios para se utilice el nodo que tenga menos carga.
+En este artí­culo abordaremos la creación de un clúster de alta disponibilidad con GALERA. Esta herramienta permite agregar nodos de MariaDB a un clúster el cual replicará automáticamente lo que suceda en un nodo. Esto sirve para aplicaciones con requerimiento de alta disponibilidad y puede agregarse un Proxy que gestione los servicios para se utilice el nodo que tenga menos carga.
 
 Para hacer este laboratorio necesitaremos:
 
-- Nodo 01 : SerÃ¡ nuestro maestro del clúster.
-- Nodo 02 : FormarÃ¡ parte del clúster
+- Nodo 01 : Será nuestro maestro del clúster.
+- Nodo 02 : Formará parte del clúster
 
 Puedes agregar tantos nodos creas necesarios. La PoC se realizá sobre sistemas Debian 12 en instalación limpia.
 
