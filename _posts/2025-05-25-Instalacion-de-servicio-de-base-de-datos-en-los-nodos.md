@@ -15,7 +15,7 @@ En este artí­culo abordaremos la creación de un clúster de alta disponibilid
 Para hacer este laboratorio necesitaremos:
 
 - Nodo 01 : Será nuestro maestro del clúster.
-- Nodo 02 : Formará parte del clúster
+- Nodo 02 : Formará parte del clúster.
 
 Puedes agregar tantos nodos creas necesarios. La PoC se realizá sobre sistemas Debian 12 en instalación limpia.
 
