@@ -9,7 +9,7 @@ image: /assets/135/preview1.png
 
 Hoy traemos una herramienta para desactivar Microsoft Defender creada por es3n1n, hablamos de defendnot y se trata de la evolución de su no-defender, que fue retirada de GitHub tras una DMCA. Lo que ha hecho esta vez el propio es3n1n es un clean-room implementation: sin depender de AVs reales ni DLLs de terceros, y más centrado en un reverse engineering profundo del WSC.
 
-![Imagen 01](/assets/135/preview1.png) width="300" height="200"
+<img src="/assets/135/preview1.png"  width="300" height="200">
 
 La verdadera joya está en el writeup que el propio es3n1n publicó, donde describe cómo desmontó pieza a pieza el WSC para burlar sus defensas:
 
