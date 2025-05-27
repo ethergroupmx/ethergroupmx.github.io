@@ -2,7 +2,7 @@
 title: El rootkit PoC io_uring de Linux elude las herramientas de detección de amenazas basadas en llamadas del sistema
 date: 2025-05-20 09:00:00 
 categories: [LINUX]
-tags: [ciberseguridad, ciberataque, vulnerabilidad]
+tags: [linux, ciberataque, vulnerabilidad]
 description: Los investigadores de ciberseguridad han demostrado un rootkit de prueba de concepto (PoC) denominado Curing...
 image: /assets/137/preview1.png
 ---
@@ -16,8 +16,6 @@ Esto provoca un "punto ciego importante en las herramientas de seguridad del ent
 io_uring, introducido por primera vez en la versión 5.1 del kernel de Linux en marzo de 2019, es una interfaz de llamada al sistema del kernel de Linux que emplea dos buffers circulares llamados cola de envío (SQ) y una cola de finalización (CQ) entre el kernel y una aplicación (es decir, espacio de usuario) para rastrear el envío y la finalización de las solicitudes de E/S de manera asincrónica.
 
 El rootkit ideado por ARMO facilita la comunicación entre un servidor de comando y control (C2) y un host infectado para obtener comandos y ejecutarlos sin realizar ninguna llamada al sistema relevante para sus operaciones, sino que utiliza io_uring para lograr los mismos objetivos.
-
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=oJ6VQO87MIY" frameborder="0" allowfullscreen></iframe>
 
 El análisis de ARMO de las herramientas de seguridad en tiempo de ejecución de Linux disponibles actualmente ha revelado que tanto Falco como Tetragon son ciegos a las operaciones basadas en io_uring debido al hecho de que dependen en gran medida del enganche de llamadas del sistema.
 
