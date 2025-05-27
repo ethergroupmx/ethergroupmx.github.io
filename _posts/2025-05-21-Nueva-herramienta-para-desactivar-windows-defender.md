@@ -9,7 +9,7 @@ image: /assets/135/preview1.png
 
 Hoy traemos una herramienta para desactivar Microsoft Defender creada por es3n1n, hablamos de defendnot y se trata de la evolución de su no-defender, que fue retirada de GitHub tras una DMCA. Lo que ha hecho esta vez el propio es3n1n es un clean-room implementation: sin depender de AVs reales ni DLLs de terceros, y más centrado en un reverse engineering profundo del WSC.
 
-<img src="/assets/135/135-01.png"  width="500" height="500">
+<img src="/assets/135/135-01.png"  alt="Imagen01" width="500" height="500">
 
 La verdadera joya está en el writeup que el propio es3n1n publicó, donde describe cómo desmontó pieza a pieza el WSC para burlar sus defensas:
 
@@ -21,7 +21,7 @@ La verdadera joya está en el writeup que el propio es3n1n publicó, donde descr
 - Para pasar el chequeo de tokens y evitar que se vincule con Windows Defender, no basta con impersonar el SID WinDefend (de hecho, esa técnica no funcionó), sino que hay que tener un proceso legítimo que cumpla todas las verificaciones.
 - Finalmente, definió un mecanismo propio para transferir parámetros entre loader y DLL usando un archivo ctx.bin y para gestionar la persistencia con el Task Scheduler (teniendo cuidado con las condiciones de energía del sistema que pueden impedir la ejecución automática).
 
-<img src="/assets/135/135-02.jpg"  width="300" height="300">
+<img src="/assets/135/135-02.jpg" alt="Imagen02" width="300" height="300">
 
 Es decir, básicamente Defendnot explota la API del Centro de Seguridad de Windows (WSC), la misma que usan los antivirus para decir “eh, soy el p*** amo aquí”. Y Windows, para evitar conflictos, automáticamente desactiva Defender cuando detecta un antivirus registrado. Hasta aquí, normal.
 
