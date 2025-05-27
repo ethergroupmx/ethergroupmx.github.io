@@ -9,7 +9,7 @@ image: /assets/136/preview1.png
 
 Yuval Gordon, investigador de Akamai, ha descubierto una técnica avanzada de escalada de privilegios en entornos Windows Server 2025 conocida como BadSuccessor. Esta técnica depende de una nueva funcionalidad legítima: las Cuentas de Servicio Administradas Delegadas (dMSA).
 
-###  ¿Qué son las dMSA?
+### ¿Qué son las dMSA?
 
 Las Delegated Managed Service Accounts (dMSA) fueron introducidas en Windows Server 2025 como una mejora sobre las Managed Service Accounts (MSA) y Group Managed Service Accounts (gMSA). Su objetivo es permitir una gestión centralizada, segura y delegada de cuentas de servicio, incluyendo:
 
@@ -19,7 +19,7 @@ Las Delegated Managed Service Accounts (dMSA) fueron introducidas en Windows Ser
 
 Sin embargo, es precisamente esta capacidad de delegación la que abre la puerta a BadSuccessor.
 
-###  La idea detrás de BadSuccessor
+### La idea detrás de BadSuccessor
 
 BadSuccessor se basa en el abuso de la funcionalidad que permite delegar la gestión de una dMSA. Mediante esta característica, es posible que una entidad (usuario o grupo) administre otra cuenta de servicio sin necesidad de privilegios directos de dominio.
 
@@ -31,7 +31,7 @@ El problema aparece cuando:
 
 Este flujo puede usarse para escalar privilegios dentro del dominio sin explotar vulnerabilidades, sino simplemente configuraciones laxas de delegación.
 
-##  Escenario de ataque
+## Escenario de ataque
 
 - El atacante crea una nueva cuenta dMSA, por ejemplo: attacker$.
 - El atacante modifica los atributos del objeto de AD de la dMSA objetivo (por ejemplo, svc_SQLProd$) para vincular la nueva dMSA (attacker$) como su sucesora.
@@ -40,13 +40,13 @@ Este flujo puede usarse para escalar privilegios dentro del dominio sin explotar
 
 <img src="/assets/136/136-1.jpg"  width="500" height="500">
 
-###  Requisitos del ataque
+### Requisitos del ataque
 
 - Control parcial o total de una cuenta con delegación sobre una dMSA privilegiada.
 - Acceso a un entorno de dominio con controladores de dominio actualizados a Windows Server 2025.
 - Conocimiento de las estructuras de delegación en Active Directory.
 
-###  Ejemplo - Escenario de ataque completo: De usuario delegado a Domain Admin
+### Ejemplo - Escenario de ataque completo: De usuario delegado a Domain Admin
 
 **Infraestructura del laboratorio**
 - Dominio: lab.local
