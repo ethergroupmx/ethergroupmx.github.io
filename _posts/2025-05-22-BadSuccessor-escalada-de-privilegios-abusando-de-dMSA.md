@@ -38,7 +38,7 @@ Este flujo puede usarse para escalar privilegios dentro del dominio sin explotar
 - El atacante solicita un TGT (Ticket Granting Ticket) a través de Kerberos usando su nueva cuenta attacker$.
 - El DC emite un TGT válido para attacker$, que incluye acceso y permisos equivalentes a los de la cuenta original (target user, como svc_ejemplo$). Como resultado, el atacante actúa con privilegios heredados. Si la dMSA original era miembro de grupos como Domain Admins, ahora attacker$ tiene acceso al dominio completo.
 
-<img src="/assets/136/136-1.jpg"  width="500" height="500">
+<img src="/assets/136/136-1.jpg"  alt="Imagen01" width="500" height="500">
 
 ### Requisitos del ataque
 
