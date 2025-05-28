@@ -3,7 +3,7 @@ title: Dificultad para bypassear EDRs - perspectiva de un operador de ransomware
 date: 2025-05-18 09:00:00 
 categories: [CIBERSEGURIDAD]
 tags: [ransomware, hacking, malware]
-description: Un desconocido ha creado de varias extensiones maliciosas para el navegador Chrome desde febrero de 2024.
+description: Recientemente, un operador de ransomware compartió su perspectiva sobre la facilidad con la que se pueden bypassear distintos EDRs (Endpoint Detection and Response).
 image: /assets/134/preview1.png
 ---
 
