@@ -44,48 +44,6 @@ Wazuh funciona como EDR al:
 - Controlar integridad de archivos (FIM).
 - Generar alertas y automatizar respuestas.
 
-## Implementación de Wazuh desde Cero
-
-### 1. Planificación
-
-Antes de instalar, define:
-
-- Qué activos necesitas proteger.
-- Qué tipo de logs recopilarás.
-- Si será una instalación local o en la nube.
-
-### 2. Requisitos del sistema
-
-- Servidor con sistema operativo Linux (Ubuntu, CentOS, Debian).
-- Recursos mínimos: 4 CPU, 8 GB RAM (para entornos pequeños).
-- Acceso a Internet y privilegios de administrador.
-
-### 3. Instalación del Servidor Wazuh
-
-La forma más sencilla es mediante el script oficial de instalación:
-
-```bash
-curl -sO https://packages.wazuh.com/4.7/wazuh-install.sh
-sudo bash ./wazuh-install.sh -a
-```
-
-Esto instalará Wazuh Manager, Filebeat, Elasticsearch y Kibana, listos para usarse.
-
-### 4. Instalación de Agentes
-
-Instala el agente Wazuh en cada endpoint que desees monitorizar. Por ejemplo, en Linux:
-
-```bash
-curl -so wazuh-agent.deb https://packages.wazuh.com/4.x/apt/pool/main/w/wazuh-agent/wazuh-agent_4.x.x-1_amd64.deb
-sudo dpkg -i wazuh-agent.deb
-```
-
-Configura el agente para que se conecte al servidor Wazuh Manager.
-
-### 5. Configuración y Reglas
-
-Personaliza las reglas de detección, alertas, integraciones (como VirusTotal o Slack), y dashboards desde la consola web (Kibana con plugin de Wazuh).
-
 ### 6. Pruebas y Validación
 
 Simula eventos para verificar que las alertas funcionen correctamente. Evalúa el rendimiento y ajusta los parámetros según la carga de trabajo.
