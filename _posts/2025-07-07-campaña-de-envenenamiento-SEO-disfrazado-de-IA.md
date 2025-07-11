@@ -43,7 +43,7 @@ Zoom representó aproximadamente el 41%del número total de archivos únicos, se
 
 Si bien la tendencia de abusar de los resultado falsos en motores de búsqueda para aprovecharse de las marcas populares es una táctica bien conocida, las campañas recientes han secuestrado búsquedas de páginas de soporte técnico vinculado a Apple, Bank of America, Facebook, HP, Microsoft, Netflix y PayPal para mostrar páginas legítimas a través de los resultados patrocinados en Google, pero con un giro ingenioso. "Los visitantes son llevados a la sección de Ayuda/Soporte del sitio web de la marca, pero en lugar del número de teléfono genuino, los secuestradores muestran su número de estafa", dijo Malwarebytes.
 
-
+![Imagen 00](/assets/147/147-03.png)
 
 Esto se logra mediante una técnica llamada inyección de parámetros de búsqueda para mostrar dentro de una barra de búsqueda, un número que está bajo el control del atacante para dar la impresión de que es un resultado oficial de búsqueda dentro de las páginas del centro de ayuda y engaña a los usuarios desprevenidos para que los llamen.
 
