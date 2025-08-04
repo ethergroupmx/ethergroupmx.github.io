@@ -2,7 +2,7 @@
 title: "Scrapy, el framework open source que se ha convertido en el terror silencioso de millones de sitios web"
 date: 2025-08-04 09:00:00 
 categories: [CIBERSEGURIDAD]
-tags: [framework, open source, wev]
+tags: [framework, open source, web, IA]
 description: Ligero, potente y extensible, Scrapy está detrás del auge del scraping automatizado que amenaza el tráfico y la estabilidad de servidores web en todo el mundo
 image: /assets/154/preview1.png
 ---
