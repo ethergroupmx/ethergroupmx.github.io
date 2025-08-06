@@ -11,7 +11,7 @@ Por eso, perderlos o sufrir el robo de los mismos puede parecer una catástrofe.
 
 Cuando te das cuenta de que tu portátil ha desaparecido, lo más importante es no entrar en pánico y actuar rápidamente: las siguientes acciones pueden ayudarte a proteger tu información y aumentar las posibilidades de recuperación:
 
-### Intenta localizar tu portátil
+### Intenta localizar tu portátil 
 
 Muchas veces los dispositivos se extravían más que se roban, y los sistemas de localización pueden ayudarte a recuperarlo. Usa herramie
 
