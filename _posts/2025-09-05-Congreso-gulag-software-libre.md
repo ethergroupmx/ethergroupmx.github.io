@@ -14,12 +14,10 @@ El evento reunirá conferencias, paneles y talleres gratuitos enfocados en tecno
 La sede y la fecha del próximo congreso ya están **confirmadas**.  
 El **viernes 19 de septiembre de 2025** se celebrará el **XX aniversario**, compartiendo conocimiento como cada año en el **Congreso 2025**, que tendrá lugar en la **Universidad Autónoma de La Laguna (UAL)**.
 
-![UAL](/assets/163/163-01.png)
-
-## Actualizaciones
-
-En esta página se estará actualizando con todas las novedades relacionadas al Congreso.  [GULAG - CONGRESO 2025](http://www.gulag.org.mx/proximamente-congreso-2025.html)
-Se recomienda visitarla con frecuencia para no perderse ningún detalle.
+### Datos importantes
+**Ubicación:** Universidad Autónoma de La Laguna (UAL)
+**Hora:** 9:00 AM
+**Fecha:** 19 de Septiembre 2026
 
 ## Conferencias
 
@@ -42,12 +40,7 @@ Se recomienda visitarla con frecuencia para no perderse ningún detalle.
 - *Crea código con cabeza: IA te ayuda y tú tomas decisiones* – Guillermo Valdés Lozano  
 - *Mapeo con OpenStreetMap* – Osvaldo Salazar
 
-## Ubicación
-**Universidad Autónoma de La Laguna (UAL)**  
-
-
-## Importante
-Todas las conferencias y talleres serán **gratuitos**, manteniendo la tradición de ediciones anteriores. Se anunciarán **más sorpresas** en los próximos días.  
+### Todas las conferencias y talleres serán **gratuitos**, manteniendo la tradición de ediciones anteriores.
 
 ## Registro
 
@@ -55,7 +48,7 @@ El registro en línea ya está disponible: [Regístrate aquí](https://gl.etherc
 
 ### ¡Vive libre! ¡Sé libre! ¡Usa software libre!
 
-## Patrocinadores
+### Patrocinadores
 
 ![Patrocinadores](/assets/163/163-02.png)
 
