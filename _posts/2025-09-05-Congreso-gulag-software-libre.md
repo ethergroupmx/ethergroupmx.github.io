@@ -45,7 +45,6 @@ Se recomienda visitarla con frecuencia para no perderse ningún detalle.
 ## Ubicación
 **Universidad Autónoma de La Laguna (UAL)**  
 
-<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=-103.43651533126832%2C25.5743917669015%2C-103.42972397804262%2C25.57975308395713&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?#map=17/25.577072/-103.433120">Ver el mapa más grande</a></small>
 
 ## Importante
 Todas las conferencias y talleres serán **gratuitos**, manteniendo la tradición de ediciones anteriores. Se anunciarán **más sorpresas** en los próximos días.  
