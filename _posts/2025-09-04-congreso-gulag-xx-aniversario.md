@@ -20,7 +20,7 @@ El **viernes 19 de septiembre de 2025** se celebrará el **XX aniversario**, com
 
 - **09:00** – Ceremonia de inauguración  
 - **09:30** – *MxOS: Fomentando la soberanía tecnológica* por **René Bon Ćirić**  
-- **10:30** – *Seguridad* (título por confirmar)  
+- **10:30** – *Cyber Kill Chain* por **Antonio Gurza**  
 - **11:30** – Panel de expertos  
 - **12:30** – *Mujeres Hackers* por **Dra. Irene Soria Guzmán**
 
