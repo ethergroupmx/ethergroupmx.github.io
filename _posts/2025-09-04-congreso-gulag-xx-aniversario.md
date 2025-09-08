@@ -28,12 +28,12 @@ El **viernes 19 de septiembre de 2025** se celebrará el **XX aniversario**, com
 
 **A partir de las 15:00 hrs:**
 
-- *Diseño Gráfico con Software Libre* – Dra. Irene Soria Guzmán  
-- *Introducción a Contratos Inteligentes con Vyper* – Alejandro Pineda  
-- *Taller de KEME* – Gabriel Peña A.  
-- *Taller de IA* – Rogelio A. García M.  
-- *Crea código con cabeza: IA te ayuda y tú tomas decisiones* – Guillermo Valdés Lozano  
-- *Mapeo con OpenStreetMap* – Osvaldo Salazar
+- **Diseño Gráfico con Software Libre** – Dra. Irene Soria Guzmán  
+- **Introducción a Contratos Inteligentes con Vyper** – Alejandro Pineda  
+- **Taller de KEME** – Gabriel Peña A.  
+- **Taller de IA** – Rogelio A. García M.  
+- **Crea código con cabeza: IA te ayuda y tú tomas decisiones** – Guillermo Valdés Lozano  
+- **Mapeo con OpenStreetMap** – Osvaldo Salazar
 
 ### Todas las conferencias y talleres serán **gratuitos**, manteniendo la tradición de ediciones anteriores.
 
