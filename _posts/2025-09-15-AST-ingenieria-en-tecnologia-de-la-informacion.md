@@ -14,12 +14,12 @@ A continuación, compartimos la agenda oficial del evento para la carrera de Ing
 
 ## Agenda AST 2025 – Ingeniería en Tecnología de la Información
 
-**16:50 hrs.** – Recepción de invitados: Bienvenida y registro de asistentes.
-**17:00 hrs.** – Palabras de bienvenida: Autoridades de la UTT y Directores de carrera.
-**17:10 hrs.** – Presentación de empresas participantes: Breve intervención de representantes invitados.
-**17:30 hrs.** – Networking AST: Espacio de intercambio y vinculación directa entre empresas y Directores de carrera.
-**18:25 hrs.** – Llenado y firma de acta.
-**18:30 hrs.** – Clausura del evento.
+- **16:50 hrs.** Recepción de invitados: Bienvenida y registro de asistentes.
+- **17:00 hrs.** Palabras de bienvenida: Autoridades de la UTT y Directores de carrera.
+- **17:10 hrs.** Presentación de empresas participantes: Breve intervención de representantes invitados.
+- **17:30 hrs.** Networking AST: Espacio de intercambio y vinculación directa entre empresas y Directores de carrera.
+- **18:25 hrs.** Llenado y firma de acta.
+- **18:30 hrs.** Clausura del evento.
 
 El AST 2025 busca fortalecer la colaboración entre la universidad y el sector empresarial, impulsando oportunidades de crecimiento para los estudiantes de la carrera de Ingeniería en Tecnología de la Información.
 
