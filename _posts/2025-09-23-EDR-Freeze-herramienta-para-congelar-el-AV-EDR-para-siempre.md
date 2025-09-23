@@ -1,5 +1,5 @@
 ---
-title: "EDR-Freeze: herramienta para "congelar" el AV/EDR "para siempre""
+title: "EDR-Freeze: herramienta para congelar el AV/EDR para siempre"
 date: 2025-09-23 09:00:00 
 categories: [CIBERATAQUES]
 tags: [tools, hacking, malware]
