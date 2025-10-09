@@ -1,7 +1,7 @@
 ---
 title: "5 mitos sobre ciberseguridad que pueden ponernos en riesgo"
 date: 2025-10-02 09:00:00 
-categories: [CIBESEGURIDAD]
+categories: [CIBERSEGURIDAD]
 tags: [ciberseguridad, phishing, ransomware]
 description: En un contexto donde 1 de cada 4 empresas en Latinoamérica ha sufrido un ataque, sigue habiendo falsas creencias que nos ponen en riesgo.
 image: /assets/173/preview1.png
