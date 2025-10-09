@@ -1,7 +1,7 @@
 ---
 title: "Cómo usar la IA en el trabajo y priorizar la seguridad"
 date: 2025-10-06 09:00:00 
-categories: [CIBESEGURIDAD]
+categories: [CIBERSEGURIDAD]
 tags: [ciberseguridad, IA, tecnología, tools]
 description: Aprovecha el poder de la inteligencia artificial sin poner en riesgo la información de la empresa.
 image: /assets/174/preview1.png
