@@ -2,7 +2,7 @@
 title: "Hoy muere Windows 10 ¿Qué implica para el usuario y las empresas?"
 date: 2025-10-14 09:00:00 
 categories: [CIBERSEGURIDAD]
-tags: [sistema operativo, news]
+tags: [sistema operativo, news, tecnología]
 description: Hoy, 14 de octubre de 2025, es la fecha oficial de la finalización del soporte (End-of-Life o EOL) para la mayoría de las ediciones de Windows 10 (Home y Pro). Esto tiene implicaciones importantes, especialmente en cuanto a seguridad.
 image: /assets/177/preview1.png
 ---
