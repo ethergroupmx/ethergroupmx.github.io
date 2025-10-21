@@ -87,4 +87,4 @@ También vale la pena considerar cómo podrían evolucionar los ataques tipo Cli
 
 - *El método de ataque híbrido actual consiste en que el atacante envíe señuelos en el navegador para comprometer el endpoint y obtener acceso a las credenciales y cookies almacenadas en él.*
 
-- Credits:Hackernews
+*Credits: Hackernews*
