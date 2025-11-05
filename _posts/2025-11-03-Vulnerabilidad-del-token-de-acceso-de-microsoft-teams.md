@@ -30,7 +30,7 @@ la nueva herramienta Teams-Cookies-BOF de Tier Zero Security reutiliza esta lóg
 
 La herramienta adapta la técnica de explotación del navegador existente para evitar los mecanismos de bloqueo de archivos de Teams, lo que genera nuevas preocupaciones sobre la seguridad de los terminales en entornos empresariales.
 
-[Imagen 01](/assets/183/183-01.png)
+![Imagen 01](/assets/183/183-01.png)
 
 Duplica estos identificadores, lee el contenido del archivo sobre la marcha y descifra los valores utilizando la clave maestra DPAPI del usuario. Este enfoque garantiza el sigilo, ya que la herramienta imita la actividad del proceso legítimo sin interrupciones en el sistema de archivos.
 
@@ -44,13 +44,13 @@ Los investigadores han detectado técnicas que permiten a atacantes acceder a in
 
 La explotación consiste en la inyección de código dentro del proceso legítimo de Microsoft Teams, permitiendo el acceso directo a archivos de cookies protegidos. A través del uso del Data Protection API (DPAPI) de Windows, los atacantes descifran y extraen estos datos, obteniendo así los tokens que permiten el acceso no autorizado a recursos y conversaciones de Teams. La técnica logra camuflarse como actividad legítima y evitar la detección por soluciones de seguridad tradicionales.
 
-[Imagen 01](/assets/183/183-02.png)
+![Imagen 01](/assets/183/183-02.png)
 
 El principal impacto es el secuestro de sesiones de usuario, poniendo en peligro la información empresarial, credenciales e integridad de las comunicaciones. Además, la sigilosidad del ataque favorece movimientos laterales y la posibilidad de que actores maliciosos permanezcan largos periodos de tiempo dentro del entorno corporativo. Otros productos basados en tecnologías similares también podrían verse afectados.
 
-[Imagen 01](/assets/183/183-03.png)
+![Imagen 01](/assets/183/183-03.png)
 
-[Imagen 01](/assets/183/183-04.png)
+![Imagen 01](/assets/183/183-04.png)
 
 ### Implicancia para los defensores
 El mecanismo de descifrado refleja exactamente Cookie-Monster-BOF, empleando AES-256-GCM después de extraer el nonce y la carga útil cifrada de los valores etiquetados "v10" en la base de datos.
