@@ -1,6 +1,6 @@
 ---
 title: "Miles de cuentas y datos personales se filtran de OpenAI y ChatGPT"
-date: 2025-11-27 09:00:00 
+date: 2025-12-02 09:00:00 
 categories: [CIBERSEGURIDAD]
 tags: [ciberseguridad, IA, news, hacking]
 description: Tarde o temprano tenía que ocurrir. Sam Altman avisó hace unas semanas que ChatGPT no es lugar para ir confiando los datos más privados e informaciones personales que no se deben compartir, por lo que pudiera pasar.
