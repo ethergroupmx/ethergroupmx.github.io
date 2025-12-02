@@ -2,7 +2,7 @@
 title: "Matrix Push C2: utiliza notificaciones del navegador para ataques de phishing multiplataforma sin archivos"
 date: 2025-11-27 09:00:00 
 categories: [CIBERATAQUES]
-tags: [ciberataques, phishin, redes]
+tags: [ciberataques, phishing, redes]
 description: Los delincuentes están aprovechando las notificaciones del navegador como vector de ataques de phishing para distribuir enlaces maliciosos mediante una nueva plataforma de comando y control (C2) llamada Matrix Push C2.
 image: /assets/190/preview1.png
 ---
