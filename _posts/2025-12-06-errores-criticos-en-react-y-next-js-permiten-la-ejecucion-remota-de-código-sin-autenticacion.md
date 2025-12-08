@@ -1,8 +1,8 @@
 ---
 title: "URGENTE: errores críticos en React y Next.js permiten la ejecución remota de código sin autenticación (PARCHEA!)"
 date: 2025-12-06 09:00:00 
-categories: [VULNERABILIDADES]
-tags: [vulnerabilidades, ]
+categories: [VULNERABILIDAD]
+tags: [vulnerabilidad, seguridad web, programación]
 description: Se ha revelado un fallo de seguridad de máxima gravedad en el protocolo "Flight" de React Server Components (RSC) que, de explotarse con éxito, podría provocar la ejecución remota de código.
 image: /assets/194/preview1.png
 ---
