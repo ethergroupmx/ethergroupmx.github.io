@@ -1,5 +1,5 @@
 ---
-title: "Un ataque de navegador de tipo "Zero-Click Agentic" puede eliminar todo Google Drive mediante correos electrónicos manipulados"
+title: "Un ataque de navegador de tipo Zero-Click Agentic puede eliminar todo Google Drive mediante correos electrónicos manipulados"
 date: 2025-12-08 09:00:00 
 categories: [CIBERATAQUES]
 tags: [seguridad web, phishing, ciberataques]
