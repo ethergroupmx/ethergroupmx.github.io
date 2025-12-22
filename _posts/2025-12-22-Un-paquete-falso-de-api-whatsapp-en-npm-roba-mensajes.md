@@ -35,7 +35,7 @@ Además, "lotusbail" viene equipado con capacidades anti-depuración que hacen q
 
 La revelación se produce cuando ReversingLabs compartió detalles de 14 paquetes NuGet maliciosos que se hacen pasar por Nethereum, una biblioteca de integración .NET para la cadena de bloques descentralizada Ethereum, y otras herramientas relacionadas con criptomonedas para redirigir los fondos de las transacciones a billeteras controladas por los atacantes cuando el monto de la transferencia excedía los $100 o exfiltrar claves privadas y frases semilla.
 
-![Imagen 01](/assets/200/200-01.png)
+![Imagen 01](/assets/200/201-01.png)
 
 A continuación se enumeran los nombres de los paquetes, publicados desde ocho cuentas diferentes:
 
