@@ -1,5 +1,5 @@
 ---
-title: "Toque Fantasma: Nuevo Fraude Digital que explota pagos sin contacto"
+title: "Toque Fantasma: nuevo fraude digital que explota pagos sin contacto"
 date: 2026-01-02 09:00:00 
 categories: [CIBERSEGURIDAD]
 tags: [ciberseguridad, hacking, móviles, finanzas, malware]
