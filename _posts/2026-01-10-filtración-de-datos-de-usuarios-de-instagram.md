@@ -13,7 +13,8 @@ Los investigadores identificaran un conjunto de datos vinculado a aproximadament
 
 ![Imagen 01](/assets/205/205-01.jpeg)
 
-**El conjunto de datos expuesto incluye, según se informa, nombres de usuario, direcciones de correo electrónico, números de teléfono, direcciones postales y metadatos adicionales relacionados con las cuentas.** Poco después de identificarse la filtración, varios usuarios comenzaron a recibir notificaciones legítimas de restablecimiento de contraseña de Instagram, lo que indica que los actores de amenazas intentaban acceder activamente a las cuentas utilizando los datos comprometidos. Desde entonces, se ha observado que el conjunto de datos circula en mercados clandestinos, lo que genera preocupación por fraude generalizado, suplantación de identidad y apropiación de cuentas.
+**El conjunto de datos expuesto incluye, según se informa, nombres de usuario, direcciones de correo electrónico, números de teléfono, direcciones postales y metadatos adicionales relacionados con las cuentas.** 
+Poco después de identificarse la filtración, varios usuarios comenzaron a recibir notificaciones legítimas de restablecimiento de contraseña de Instagram, lo que indica que los actores de amenazas intentaban acceder activamente a las cuentas utilizando los datos comprometidos. Desde entonces, se ha observado que el conjunto de datos circula en mercados clandestinos, lo que genera preocupación por fraude generalizado, suplantación de identidad y apropiación de cuentas.
 
 ![Imagen 02](/assets/205/205-02.jpeg)
 
