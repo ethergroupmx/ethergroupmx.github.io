@@ -3,7 +3,7 @@ title: "Sophos Endpoint (Intercept X): ¿qué licencia necesita tu empresa?"
 date: 2026-01-26 09:00:00 
 categories: [CIBERSEGURIDAD]
 tags: [sophos, ciberseguridad, news]
-description: En este artículo te explicamos las diferencias entre Sophos Endpoint Essentials, Advanced y las versiones con EDR/XDR/MDR, pero desde un enfoque práctico: cuándo conviene cada una, para qué tipo de empresa y por qué elegirla, basado en la experiencia de Ethergroup como proveedor de Sophos.
+description: "En este artículo te explicamos las diferencias entre Sophos Endpoint Essentials, Advanced y las versiones con EDR/XDR/MDR, pero desde un enfoque práctico: cuándo conviene cada una, para qué tipo de empresa y por qué elegirla, basado en la experiencia de Ethergroup como proveedor de Sophos."
 image: /assets/211/preview1.png
 ---
 
