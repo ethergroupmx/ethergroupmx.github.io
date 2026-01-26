@@ -2,7 +2,7 @@
 title: "Pagos NFC vs Códigos QR ¿cuál elegir?"
 date: 2026-01-16 09:00:00 
 categories: [CIBERSEGURIDAD]
-tags: [sophos, ciberseguridad, news]
+tags: [móviles, ciberseguridad, vulnerabilidad, tecnología]
 description: "La digitalización ha dejado de ser una opción para convertirse en una obligación (aunque no estemos de acuerdo), pero aquí surge la gran duda: ante la avalancha de tecnologías, ¿qué camino tomar?"
 image: /assets/212/preview1.png
 ---
