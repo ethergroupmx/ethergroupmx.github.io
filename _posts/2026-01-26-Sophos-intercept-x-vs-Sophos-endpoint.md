@@ -1,5 +1,5 @@
 ---
-title: "Sophos Intercept X vs Sophos Endpoint: ¿Qué opción de licencia necesita tu empresa?"
+title: "Sophos Endpoint (Intercept X): ¿qué licencia necesita tu empresa?"
 date: 2026-01-26 09:00:00 
 categories: [CIBERSEGURIDAD]
 tags: [sophos, ciberseguridad, news]
