@@ -44,7 +44,7 @@ Es el **nivel base de protección**. Ideal para empresas que necesitan cumplir c
 * Poca visibilidad para investigar incidentes
 * Reacción principalmente preventiva, no investigativa
 
-*En Ethergroup solemos recomendar Essentials solo cuando el riesgo es bajo y el presupuesto es muy limitado.*
+*En Ethergroup solemos recomendar Essentials solo cuando el riesgo es bajo y el presupuesto es limitado.*
 
 ---
 
@@ -111,11 +111,9 @@ La opción más avanzada. **Sophos gestiona la detección y respuesta por ti, 24
 
 ---
 
-## Conclusión
-
 Elegir la licencia correcta de **Sophos Endpoint** no depende solo de las funciones, sino del **riesgo real del negocio, el tamaño de la empresa y la capacidad de respuesta ante incidentes**.
 
-Como **proveedores y partners de Sophos**, en **EtherGroup** ayudamos a las empresas a:
+Como **proveedores y partners de Sophos**, en **Ethergroup** ayudamos a las empresas a:
 
 - Evaluar su nivel real de riesgo
 - Elegir la licencia adecuada
