@@ -3,7 +3,7 @@ title: "Filtraciones e intrusiones en México abren 2026 y el punto débil vuelv
 date: 2026-02-04 09:00:00 
 categories: [CIBERATAQUES]
 tags: [ciberataques, ciberseguridad, ransomware, hacking, news, malware]
-description: La Agencia de Transformación Digital y Telecomunicaciones (ATDT) informó que, tras recientes reportes de hackeos a instituciones públicas en México, **no se ha confirmado la publicación de datos sensibles**. El análisis indica que gran parte de la información presuntamente filtrada ya circulaba previamente.
+description: La Agencia de Transformación Digital y Telecomunicaciones (ATDT) informó que, tras recientes reportes de hackeos a instituciones públicas en México, no se ha confirmado la publicación de datos sensibles. El análisis indica que gran parte de la información presuntamente filtrada ya circulaba previamente.
 image: /assets/216/preview1.png
 ---
 
