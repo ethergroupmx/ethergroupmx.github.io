@@ -3,7 +3,7 @@ title: "7 tips para detectar apps móviles falsas"
 date: 2026-03-10 09:00:00 
 categories: [CIBERSEGURIDAD]
 tags: [móviles, ciberseguridad, hacking]
-description: Estos son los 7 consejos que debes tener en cuenta para mantenerte alejado de amenazas para dispositivos móviles: cómo identificar una app maliciosa y qué hacer si ya instalaste una.
+description: "Estos son los 7 consejos que debes tener en cuenta para mantenerte alejado de amenazas para dispositivos móviles: cómo identificar una app maliciosa y qué hacer si ya instalaste una."
 image: /assets/230/preview1.png
 ---
 
