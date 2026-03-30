@@ -3,7 +3,7 @@ title: "¿Pueden los agentes de IA traicionar a tu empresa?"
 date: 2026-03-28 09:00:00 
 categories: [CIBERSEGURIDAD]
 tags: [vulnerabilidad, IA, tecnología, ciberseguridad]
-description: La inteligencia artificial está entrando en una nueva fase: ya no solo responde preguntas, ahora actúa, decide y ejecuta tareas por sí sola. Estos sistemas, conocidos como *agentes de IA*, están transformando la forma en que operan las empresas, pero también están creando un nuevo tipo de riesgo que muchas organizaciones aún no comprenden.
+description: La inteligencia artificial está entrando en una nueva fase ya no solo responde preguntas, ahora actúa, decide y ejecuta tareas por sí sola. Estos sistemas, conocidos como *agentes de IA*, están transformando la forma en que operan las empresas, pero también están creando un nuevo tipo de riesgo que muchas organizaciones aún no comprenden.
 image: /assets/235/preview1.png
 ---
 
