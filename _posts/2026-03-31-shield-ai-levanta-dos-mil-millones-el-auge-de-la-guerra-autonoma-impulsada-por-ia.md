@@ -12,12 +12,12 @@ Este movimiento no solo refuerza su posición en el mercado, sino que también e
 
 ## Una ronda histórica que dispara su valoración
 
-La nueva inversión eleva la valoración de Shield AI a aproximadamente **$12.7 mil millones de dólares**, posicionándola entre las startups más valiosas del sector defense-tech. :contentReference[oaicite:1]{index=1}  
+La nueva inversión eleva la valoración de Shield AI a aproximadamente **$12.7 mil millones de dólares**, posicionándola entre las startups más valiosas del sector defense-tech.
 
 La ronda incluye:
 - **$1.5 mil millones en Serie G**
 - **$500 millones en equity preferente**
-- Participación de grandes inversionistas como Advent International, JPMorgan y Blackstone :contentReference[oaicite:2]{index=2}  
+- Participación de grandes inversionistas como Advent International, JPMorgan y Blackstone.
 
 Este nivel de financiamiento refleja la fuerte confianza del mercado en el futuro de la inteligencia artificial aplicada a la defensa.
 
@@ -25,12 +25,12 @@ Este nivel de financiamiento refleja la fuerte confianza del mercado en el futur
 
 ## Hivemind: el “cerebro” detrás de los drones autónomos
 
-El núcleo tecnológico de Shield AI es **Hivemind**, un sistema de inteligencia artificial que permite a drones y aeronaves operar de forma autónoma, incluso en entornos sin GPS o con interferencias. :contentReference[oaicite:3]{index=3}  
+El núcleo tecnológico de Shield AI es **Hivemind**, un sistema de inteligencia artificial que permite a drones y aeronaves operar de forma autónoma, incluso en entornos sin GPS o con interferencias. 
 
 Este software ya ha sido probado en múltiples plataformas, incluyendo:
 - Aviones de combate como el F-16  
 - Drones autónomos  
-- Vehículos aéreos y terrestres no tripulados :contentReference[oaicite:4]{index=4}  
+- Vehículos aéreos y terrestres no tripulados
 
 Su capacidad para tomar decisiones en tiempo real sin intervención humana lo convierte en una pieza clave para operaciones militares modernas.
 
@@ -38,7 +38,7 @@ Su capacidad para tomar decisiones en tiempo real sin intervención humana lo co
 
 ## Adquisición estratégica: Aechelon y la simulación avanzada
 
-Como parte de su estrategia de crecimiento, Shield AI también anunció la adquisición de **Aechelon Technology**, una empresa especializada en simulación de alta fidelidad. :contentReference[oaicite:5]{index=5}  
+Como parte de su estrategia de crecimiento, Shield AI también anunció la adquisición de **Aechelon Technology**, una empresa especializada en simulación de alta fidelidad. 
 
 Esta tecnología permite:
 - Entrenar sistemas autónomos en entornos virtuales realistas  
@@ -51,7 +51,7 @@ La simulación se está convirtiendo en un pilar fundamental para el desarrollo 
 
 ## El futuro: drones de combate como el X-BAT
 
-Parte del capital recaudado se destinará al desarrollo de plataformas avanzadas como el **X-BAT**, un dron de combate autónomo con despegue vertical. :contentReference[oaicite:6]{index=6}  
+Parte del capital recaudado se destinará al desarrollo de plataformas avanzadas como el **X-BAT**, un dron de combate autónomo con despegue vertical. 
 
 Este tipo de tecnología apunta a redefinir la guerra aérea:
 - Operaciones sin piloto humano  
@@ -64,7 +64,7 @@ La combinación de IA, autonomía y hardware avanzado está marcando una nueva g
 
 ## Un mercado impulsado por conflictos y geopolítica
 
-El crecimiento de Shield AI no ocurre en el vacío. La demanda por tecnologías autónomas ha aumentado significativamente debido a conflictos recientes y a la necesidad de modernizar capacidades militares. :contentReference[oaicite:7]{index=7}  
+El crecimiento de Shield AI no ocurre en el vacío. La demanda por tecnologías autónomas ha aumentado significativamente debido a conflictos recientes y a la necesidad de modernizar capacidades militares. 
 
 Hoy en día, los gobiernos buscan:
 - Reducir riesgos para el personal humano  
