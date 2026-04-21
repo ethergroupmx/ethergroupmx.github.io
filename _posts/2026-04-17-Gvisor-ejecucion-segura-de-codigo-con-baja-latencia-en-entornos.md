@@ -1,5 +1,5 @@
 ---
-title: "Databricks y el riesgo silencioso: lo que revela el ataque de cadena de suministro de TeamPCP"
+title: "gVisor: ejecución segura de código con baja latencia en entornos serverless"
 date: 2026-04-20 09:00:00 
 categories: [CIBERSEGURIDAD]
 tags: [ciberseguridad, cloud computing, cloud, seguridad informática]
