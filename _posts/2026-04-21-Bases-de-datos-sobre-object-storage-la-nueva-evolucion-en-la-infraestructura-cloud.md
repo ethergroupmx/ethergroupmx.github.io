@@ -2,7 +2,7 @@
 title: "Bases de datos sobre object storage: la nueva evolución en la infraestructura cloud"
 date: 2026-04-21 09:00:00 
 categories: [TECNOLOGÍA]
-tags: [tecnología, cloud computing. big data]
+tags: [tecnología, cloud computing, big data]
 description: Las bases de datos sobre object storage ofrecen mayor escalabilidad, durabilidad y reducción de costos en la nube. Descubre cómo este modelo está transformando la infraestructura cloud.
 image: /assets/245/preview1.png
 ---
