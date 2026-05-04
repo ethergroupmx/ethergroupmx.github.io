@@ -1,0 +1,116 @@
+---
+title: "Ursa: el nuevo motor de almacenamiento Iceberg-first para Kafka"
+date: 2026-04-30 09:00:00 
+categories: [TECNOLOGÍA]
+tags: [tecnología, big data, cloud, ciberseguridad, tools]
+description: Descubre cómo Ursa redefine el almacenamiento en Kafka al integrarlo con Iceberg y arquitecturas lakehouse, eliminando duplicación de datos y reduciendo costos en entornos cloud.
+image: /assets/247/preview1.png
+---
+
+## Introducción
+
+El ecosistema de streaming de datos está evolucionando rápidamente, y herramientas como Apache Kafka ya no operan de forma aislada. En este contexto surge **Ursa**, un nuevo motor de almacenamiento diseñado para transformar cómo se integran los sistemas de streaming con arquitecturas modernas tipo *lakehouse*.
+
+El artículo “Ursa – a new Iceberg-first storage engine for Kafka” presenta una propuesta innovadora: convertir a Kafka en un sistema nativamente integrado con formatos abiertos como Iceberg y Delta Lake, eliminando duplicaciones y simplificando la arquitectura de datos.
+
+---
+
+## ¿Qué es Ursa?
+
+Ursa es un motor de almacenamiento **lakehouse-native** compatible con Kafka que permite almacenar datos directamente en formatos abiertos como **Apache Iceberg** o **Delta Lake**, utilizando almacenamiento basado en objetos (como S3). :contentReference[oaicite:0]{index=0}  
+
+A diferencia del modelo tradicional de Kafka, Ursa introduce una arquitectura:
+
+- **Sin discos locales (diskless)**
+- **Sin líderes (leaderless)**
+- **Basada en almacenamiento en la nube**
+
+Esto representa un cambio importante frente al modelo clásico de brokers con replicación y almacenamiento local.
+
+---
+
+
+## Principales innovaciones
+
+### 1. Arquitectura sin estado (stateless)
+
+Ursa elimina la dependencia de discos locales en los brokers. En su lugar, los datos se almacenan directamente en sistemas de almacenamiento en la nube.
+
+**Beneficios:**
+
+- Escalado instantáneo (horizontal)
+- Menor complejidad operativa
+- Eliminación de rebalances complejos
+
+Esto permite que cualquier nodo pueda leer o escribir datos sin depender de líderes específicos. :contentReference[oaicite:1]{index=1}  
+
+---
+
+### 2. Integración nativa con Lakehouse
+
+Uno de los mayores avances es que los *topics* de Kafka se convierten directamente en tablas de lakehouse.
+
+- No hay necesidad de ETL
+- No se requieren conectores adicionales
+- No existe duplicación de datos
+
+En otras palabras, **un topic puede ser al mismo tiempo una tabla analítica**, accesible desde herramientas como Spark o Athena. :contentReference[oaicite:2]{index=2}  
+
+---
+
+### 3. Modelo de almacenamiento dual
+
+Ursa combina:
+
+- **WAL (Write-Ahead Log)** para ingestión rápida  
+- **Archivos columnar (Parquet)** para análisis eficiente  
+
+Esto permite mantener un equilibrio entre rendimiento en tiempo real y analítica avanzada. :contentReference[oaicite:3]{index=3}  
+
+---
+
+### 4. Reducción de costos
+
+Uno de los principales objetivos de Ursa es reducir costos en entornos cloud:
+
+- Eliminación de replicación entre zonas
+- Uso de almacenamiento más barato (object storage)
+- Menor necesidad de infraestructura
+
+Se estima que puede lograr reducciones significativas de costos frente a Kafka tradicional. :contentReference[oaicite:4]{index=4}  
+
+---
+
+## Ventajas clave
+
+- **Zero-copy data**: una sola copia de los datos  
+- **Escalabilidad automática**  
+- **Menor complejidad operativa**  
+- **Integración directa con analítica**  
+- **Compatibilidad con Kafka API**  
+
+---
+
+## Limitaciones actuales
+
+A pesar de sus ventajas, Ursa aún presenta algunos retos:
+
+- Mayor latencia frente a Kafka tradicional (por uso de object storage) :contentReference[oaicite:5]{index=5}  
+- Falta de algunas funciones avanzadas (como compaction o transacciones) :contentReference[oaicite:6]{index=6}  
+
+Esto sugiere que, por ahora, puede ser más adecuado para casos donde el costo y la integración analítica son más importantes que la latencia extrema.
+
+---
+
+## ¿Por qué es relevante?
+
+Ursa refleja una tendencia clara en la industria: la convergencia entre **streaming** y **analytics**.
+
+Tradicionalmente:
+- Kafka → streaming
+- Data lake → análisis
+
+Con Ursa:
+- Ambos mundos se unifican en una sola capa
+
+Esto reduce complejidad, costos y tiempos de procesamiento, acercando a las empresas a arquitecturas realmente *cloud-native*.
