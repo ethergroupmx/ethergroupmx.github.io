@@ -13,7 +13,7 @@ Alexander dice que en cualquier equipo con Chrome instalado, en el perfil de usu
 
 El archivo apareció sin solicitud de consentimiento. No hay ninguna casilla de verificación en la configuración de Chrome que diga "descargar un modelo de IA de 4 GB". La descarga se activa cuando las funciones de IA de Chrome están activas, y estas funciones están activas por defecto en las versiones recientes de Chrome. En cualquier equipo que cumpla con los requisitos de hardware, Chrome trata el hardware del usuario como destino de entrega y escribe el modelo.
 
-![Imagen 01](/assets/252/253-01.png)
+![Imagen 01](/assets/253/253-01.png)
 
 Gemini Nano no funciona como una descarga tradicional que buscamos, aceptamos e instalamos manualmente. En la documentación para desarrolladores de Chrome, la compañía explica que las capacidades integradas de IA están pensadas para ser fluidas y que la gestión del modelo se realiza automáticamente en segundo plano. También señala que la descarga inicial puede activarse cuando una función de IA integrada en el navegador necesita usar Gemini Nano por primera vez. Dicho de otra forma: el modelo puede llegar al ordenador como parte del funcionamiento interno de Chrome, no necesariamente mediante una acción clara y reconocible para el usuario.
 
