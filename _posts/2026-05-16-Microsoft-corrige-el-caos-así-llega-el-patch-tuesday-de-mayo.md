@@ -4,7 +4,7 @@ date: 2026-05-16 09:00:00
 categories: [VULNERABILIDAD]
 tags: [vulnerabilidad, ciberseguridad, sistema operativo]
 description: El nuevo Patch Tuesday de Microsoft incluye 138 actualizaciones de seguridad, 30 de ellas críticas, en un ciclo sin vulnerabilidades zero-day conocidas.
-image: /assets/254/preview1.png
+image: /assets/255/preview1.png
 ---
 
 Este Patch Tuesday corrige 30 vulnerabilidades "críticas", de las cuales 14 son de ejecución remota de código, 2 de elevación de privilegios y 1 es una vulnerabilidad de divulgación de información.
@@ -60,6 +60,6 @@ Microsoft ha presentado un nuevo sistema multimodelo basado en inteligencia arti
 
 MDASH, acrónimo de Multi-model Agentic Scanner Harness (Arnés de escaneo agente multimodelo), está diseñado como un sistema independiente del modelo que utiliza agentes de IA personalizados para diferentes clases de vulnerabilidades, con el fin de descubrir, validar y demostrar de forma autónoma defectos explotables en bases de código complejas como Windows.
 
-![Imagen 01](/assets/254/254-01.webp)
+![Imagen 01](/assets/255/255-01.webp)
 
 **"A diferencia de los enfoques de un solo modelo, este sistema coordina más de 100 agentes de IA especializados a través de un conjunto de modelos de vanguardia y simplificados para descubrir, analizar y demostrar errores explotables de principio a fin"**, afirmó Taesoo Kim, vicepresidente de seguridad agente de Microsoft.
