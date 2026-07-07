@@ -5,7 +5,7 @@ categories: [TECNOLOGÍA]
 tags: [programación, open source, software]
 description: Un sistema de diseño para Rust y egui que utiliza design tokens validados durante la compilación para garantizar interfaces consistentes y reducir errores desde el desarrollo.
 image: /assets/271/preview1.png
---
+---
 
 La consistencia visual es uno de los mayores desafíos en el desarrollo de interfaces modernas. Colores incorrectos, tipografías inconsistentes o componentes que no siguen las guías de diseño pueden afectar tanto la experiencia del usuario como el mantenimiento del software.
 
