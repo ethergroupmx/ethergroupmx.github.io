@@ -1,5 +1,5 @@
 ---
-title: "Una nueva ola de phishing de Ghost está rompiendo la seguridad tradicional del correo electrónico."
+title: "Una nueva ola de phishing de Ghost está rompiendo la seguridad tradicional del correo electrónico"
 date: 2026-07-08 11:00:00
 categories: [CIBERATAQUES]
 tags: [phishing, ciberseguridad, ciberataques]
