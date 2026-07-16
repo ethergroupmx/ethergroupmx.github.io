@@ -16,7 +16,7 @@ timezone: America/Monterrey
 
 title: Ethergroup # the main title
 
-tagline: Aprende un poco más sobre este mundo de tecnologías, seguridad informática, ciberseguridad, ethical hacking, servidores y GNU/Linux. # it will display as the sub-title
+tagline: Explora el mundo de la tecnología, la ciberseguridad y el software libre. # it will display as the sub-title
 
 description: Este es un espacio para compartir sobre temas de tecnologías, seguridad informática, ciberseguridad, ethical hacking, servidores y GNU/Linux. Aprende un poco más sobre este mundo con nosotros.
 domain: "blog.ethergroup.mx"
