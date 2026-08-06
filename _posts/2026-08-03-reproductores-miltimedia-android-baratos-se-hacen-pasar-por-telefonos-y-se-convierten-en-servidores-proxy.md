@@ -1,0 +1,44 @@
+---
+title: "Reproductores multimedia Android baratos se hacen pasar por teléfonos y se convierten en servidores proxy."
+date: 2026-08-03 09:00:00 
+categories: [CIBERSEGURIDAD]
+tags: [ciberseguridad, malware, android, amenazas digitales, seguridad informática]
+description: Una investigación revela que reproductores Android de bajo costo pueden ocultar malware que los convierte en servidores proxy y herramientas de fraude publicitario.
+image: /assets/281/preview1.png
+---
+
+Bitsight afirma que algunos reproductores multimedia Android de bajo costo se distribuyen con aplicaciones que modifican su identidad de hardware para imitar teléfonos Samsung, Huawei, Xiaomi o Vivo, y luego hacen clic en anuncios en sitios web de las mismas marcas.
+
+Los investigadores denominaron a esta operación Fuyao y la atribuyeron a Zhejiang Fengwo IoT Technology Co., Ltd., una empresa china fundada en 2019.
+
+Estas mismas aplicaciones tienen una segunda función. Cuando un dispositivo detecta una señal HDMI, suele cambiar para reenviar el tráfico de otros usuarios a través de la línea de banda ancha del propietario, actuando como un nodo de salida SOCKS5. Al desactivar la conexión HDMI, vuelve a esperar tareas de fraude publicitario.
+
+Bitsight descubrió la operación registrando un dominio caducado utilizado como puerta trasera de fábrica y recolector de telemetría. La mayoría de los dispositivos identificables reportaron el nombre del modelo H96_MAX_V11, aunque Bitsight indicó que su análisis del problema se centraba en modelos antiguos de una sola marca y no logró establecer una lista completa de los modelos afectados.
+
+En un solo día, tras filtrar los dispositivos con las aplicaciones de Fuyao, el sistema recibió 65.957 informes de aproximadamente 38.000 direcciones MAC únicas. La mayoría de los informes describían los dispositivos como teléfonos. Esta cifra no está confirmada, ya que el sistema puede rotar los identificadores falsificados.
+
+El informe muestra por separado que Fengwo anuncia más de 120.000 "humanos digitales con IA", pero no especifica qué representa este término de marketing. Estas cifras no son intercambiables y ninguna establece el tamaño del parque físico. Google declaró que los dispositivos de marca blanca no eran dispositivos Android con certificación Play Protect.
+
+El servidor de comando y control (C2) envía perfiles de teléfono completos a cada dispositivo, combinando una configuración base con una diferencia por modelo y eliminando las propiedades del chipset que revelarían una placa Rockchip, Amlogic o Allwinner.
+
+Pedro Falé, investigador de amenazas de Bitsight, escribió que la operación "fusiona tres sistemas de visión y razonamiento en una sola interfaz". Los operadores ensamblan la lógica de la campaña en un editor personalizado basado en Blockly, el marco de programación de arrastrar y soltar de Google. Exportan cada rutina de fraude como JavaScript, la suben a S3 y la envían al servidor para su ejecución.
+
+En cuatro dispositivos de prueba, Bitsight detectó aproximadamente 40 tareas de fraude, 21 campañas únicas y 166 módulos únicos. Un comentario de un desarrollador recuperado indicaba que el sistema de plantillas permite que un pequeño grupo de ingenieros expertos brinde soporte a operadores de campaña menos experimentados, lo que reduce los costos.
+
+![Imagen 01](/assets/281/281-01.png)
+
+La cadena de pagos de Fuyao se ejecuta a través de una red de publicación. Bitsight mapeó 144 dominios propiedad de operadores en siete grupos de beneficiarios. Al menos 84 de ellos cargaban una etiqueta de Taboola en la página de inicio. Los investigadores indicaron que utilizaron el archivo público sellers.json de Taboola para conectar los dominios con entidades recaudadoras de ingresos en Hong Kong y Singapur. Bitsight estimó ingresos brutos de 1,25 dólares por dispositivo al día, o aproximadamente 47.500 dólares diarios si 38.000 dispositivos estuvieran activos.
+
+Por separado, estimó que los ingresos anuales podrían alcanzar los 40 millones de dólares con el tamaño de flota anunciado, citando una tasa de detección de fraude del 30-40% y una tasa de relleno de anuncios del 70%, pero no mostró el cálculo completo. Estas son estimaciones, no ingresos reales.
+
+La atribución a Fengwo se basa en Bitsight, que citó datos de certificados TLS compartidos, archivos wiki expuestos, direcciones de correo electrónico reutilizadas, enlaces de ingresos y patentes.
+
+Los registros públicos de patentes chinas identifican de forma independiente a Zhejiang Fengwo como la titular de tecnologías relacionadas con la ejecución y el monitoreo de humanos digitales. La patente CN117421142B, otorgada en noviembre de 2024, abarca el seguimiento del flujo de ejecución para módulos de comportamiento humano digital, mientras que la CN117478834A describe el monitoreo de pantallas remotas mediante miniaturas alojadas en la nube y la comparación de fotogramas clave. Ninguna de las solicitudes describe publicidad, ni los registros lo confirman, que la empresa operara Fuyao o participara en fraude publicitario.
+
+Las fuentes consultadas tampoco establecen quién instaló las aplicaciones ni en qué punto de la cadena de suministro del dispositivo aparecieron.
+
+Estos dispositivos genéricos no contaban con la certificación Play Protect. Si un dispositivo no tiene esta certificación, Google no dispone de un registro de los resultados de las pruebas de seguridad y compatibilidad. Los dispositivos Android con certificación Play Protect se someten a pruebas exhaustivas para garantizar su calidad y la seguridad del usuario. Para ayudarle a confirmar si un dispositivo está fabricado con Android TV OS y cuenta con la certificación Play Protect, el sitio web de Android TV ofrece la lista más actualizada de socios. "También puede seguir estos pasos para comprobar si su dispositivo tiene la certificación Play Protect", según declaró un portavoz de Google.
+
+En junio de 2025, el FBI recomendó a los usuarios que evaluaran los dispositivos conectados, desconectaran los sospechosos, mantuvieran el firmware actualizado y desconfiaran de los reproductores multimedia genéricos que se venden con promesas de contenido gratuito.
+
+
