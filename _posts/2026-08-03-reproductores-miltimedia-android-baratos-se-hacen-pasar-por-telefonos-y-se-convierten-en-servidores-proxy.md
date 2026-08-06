@@ -11,6 +11,7 @@ Bitsight afirma que algunos reproductores multimedia Android de bajo costo se di
 
 Los investigadores denominaron a esta operación Fuyao y la atribuyeron a Zhejiang Fengwo IoT Technology Co., Ltd., una empresa china fundada en 2019.
 
+
 Estas mismas aplicaciones tienen una segunda función. Cuando un dispositivo detecta una señal HDMI, suele cambiar para reenviar el tráfico de otros usuarios a través de la línea de banda ancha del propietario, actuando como un nodo de salida SOCKS5. Al desactivar la conexión HDMI, vuelve a esperar tareas de fraude publicitario.
 
 Bitsight descubrió la operación registrando un dominio caducado utilizado como puerta trasera de fábrica y recolector de telemetría. La mayoría de los dispositivos identificables reportaron el nombre del modelo H96_MAX_V11, aunque Bitsight indicó que su análisis del problema se centraba en modelos antiguos de una sola marca y no logró establecer una lista completa de los modelos afectados.
