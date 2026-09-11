@@ -3,7 +3,7 @@ title: "Congreso Internacional de Software Libre 2026 - GULag"
 date: 2026-09-10 09:00:00
 categories: [CIBERSEGURIDAD]
 tags: [software libre, linux, IA, ciberseguridad]
-description: "El Congreso Internacional de Software Libre 2026 reunirá en Torreón a estudiantes, profesionales y entusiastas de la tecnología con conferencias y talleres sobre Software Libre, inteligencia artificial, ciberseguridad, OpenStreetMap y PostgreSQL."}
+description: "El Congreso Internacional de Software Libre 2026 reunirá en Torreón a estudiantes, profesionales y entusiastas de la tecnología con conferencias y talleres sobre Software Libre, inteligencia artificial, ciberseguridad, OpenStreetMap y PostgreSQL."
 image: /assets/290/preview1.png
 ---
 
@@ -22,7 +22,7 @@ Entre las conferencias programadas se encuentran:
 * **Software Libre en la empresa** — Luis Ángel Alvarado Hernández
 * **OpenStreetMap: Datos abiertos y más** — Osvaldo R. Salazar S.
 
-![Imagen 01](/assets/290/290-01.jpg)
+![Imagen 01](/assets/290/290-01.jpg){width=50%}
 
 Por la tarde se realizarán talleres simultáneos:
 
@@ -30,7 +30,7 @@ Por la tarde se realizarán talleres simultáneos:
 * **Mapeando mi entorno** — Osvaldo R. Salazar S.
 * **Ethical Hacking con AI** — Imir Torres
 
-![Imagen 02](/assets/290/290-02.jpg)
+![Imagen 02](/assets/290/290-02.jpg){width=50%}
 
 Los contenidos buscan acercar a los asistentes a herramientas y tecnologías de actualidad, además de promover el aprendizaje colaborativo y el intercambio de conocimientos.
 
