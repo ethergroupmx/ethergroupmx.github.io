@@ -22,7 +22,7 @@ Entre las conferencias programadas se encuentran:
 * **Software Libre en la empresa** — Luis Ángel Alvarado Hernández
 * **OpenStreetMap: Datos abiertos y más** — Osvaldo R. Salazar S.
 
-<img src="/assets/290/290-01.jpg" alt="Imagen 01" style="width: 70%;">
+<img src="/assets/290/290-01.jpg" alt="Imagen 01" style="width: 50%;">
 
 Por la tarde se realizarán talleres simultáneos:
 
@@ -30,7 +30,7 @@ Por la tarde se realizarán talleres simultáneos:
 * **Mapeando mi entorno** — Osvaldo R. Salazar S.
 * **Ethical Hacking con AI** — Imir Torres
 
-<img src="/assets/290/290-02.jpg" alt="Imagen 02" style="width: 70%;">
+<img src="/assets/290/290-02.jpg" alt="Imagen 02" style="width: 50%;">
 
 Los contenidos buscan acercar a los asistentes a herramientas y tecnologías de actualidad, además de promover el aprendizaje colaborativo y el intercambio de conocimientos.
 
