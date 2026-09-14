@@ -49,4 +49,4 @@ El **Grupo de Usuarios de GNU/Linux de La Laguna (GULAG)** es una comunidad dedi
 
 **Reserva la fecha y forma parte de esta celebración del Software Libre y la tecnología en La Laguna.**
 
-[Te puedes registrar aquí para los talleres y conferencias](https://gl.ethercloud.mx/apps/forms/8ZjZmBEg56DcqjGL/submit)
+[Te puedes registrar aquí para los talleres y conferencias](https://gl.ethercloud.mx/apps/forms/s/B6Z9CXg9k9YeKcWgdzFMBxje)
