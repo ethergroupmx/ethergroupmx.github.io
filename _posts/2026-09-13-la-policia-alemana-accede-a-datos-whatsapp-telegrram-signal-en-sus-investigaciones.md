@@ -3,11 +3,9 @@ title: "La policía alemana accede a datos WhatsApp, Telegram, Signal en sus inv
 date: 2026-09-13 09:00:00
 categories: [CIBERSEGURIDAD]
 tags: [android, vulnerabilidades, ciberseguridad, móviles]
-description: "Investigadores descubren una cadena de exploits que puede llevar desde una videollamada VoLTE hasta el acceso completo al kernel de Android en dispositivos con módem Unisoc."
+description: "Un artículo publicado por Netzpolitik investiga una técnica utilizada por organismos policiales alemanes  (BKA) para interceptar comunicaciones de WhatsApp, Telegram, Signal y otros mensajeros sin instalar un "Staatstrojaner" (software espía estatal) en el dispositivo."
 image: /assets/292/preview1.png
 ---
-
-Un artículo publicado por Netzpolitik investiga una técnica utilizada por organismos policiales alemanes  (BKA) para interceptar comunicaciones de WhatsApp, Telegram, Signal y otros mensajeros sin instalar un "Staatstrojaner" (software espía estatal) en el dispositivo.
 
 La motivación de la unidad es operativa: la generalización del cifrado de extremo a extremo (E2EE) impide que una intervención telefónica tradicional obtenga el contenido en claro. En lugar de romper el cifrado, **los investigadores vinculan un nuevo cliente Web/Desktop a la cuenta de la persona investigada, de modo similar a agregar un segundo dispositivo autorizado.**
 
