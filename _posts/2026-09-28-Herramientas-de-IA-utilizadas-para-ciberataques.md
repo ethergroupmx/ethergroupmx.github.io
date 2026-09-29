@@ -13,7 +13,7 @@ Un solo ciberdelincuente logró dirigir agentes de inteligencia artificial contr
 
 Los más de 600.000 registros de tarjetas de crédito robados procedían de apenas dos de las empresas afectadas. De ese total, 488.000 —cerca del 79%— pertenecían a titulares de Estados Unidos. Overwatch Data, una firma especializada en prevención del fraude, analizó la información y confirmó que se trataba de registros únicos y auténticos.
 
-<img src="/assets/296/297-01.png" alt="Cairn attack status" style="width: 80%;">
+<img src="/assets/297/297-01.png" alt="Cairn attack status" style="width: 80%;">
 
 De acuerdo a Gambit, la operación mostró hasta qué punto la inteligencia artificial ya está siendo utilizada para automatizar ataques informáticos a gran escala y reducir drásticamente sus costos. También dejó en evidencia la velocidad con la que estas herramientas pasaron de los ensayos y las pruebas controladas a convertirse en instrumentos concretos de la ciberdelincuencia.
 
