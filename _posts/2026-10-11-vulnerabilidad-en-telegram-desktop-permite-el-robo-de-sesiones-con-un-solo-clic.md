@@ -21,7 +21,7 @@ Las versiones de Telegram Desktop anteriores a la 7.2.9 están afectadas. El inv
 
 El ataque requiere hacer clic en un enlace abierto fuera de Telegram (por ejemplo, en un navegador web), el cual podría mostrar un aviso de confirmación antes de iniciar la aplicación de escritorio. La cadena de ataque del investigador también depende de dos configuraciones predeterminadas: la descarga automática de archivos en grupos y la posibilidad de que cualquier persona añada al usuario a un grupo. 
 
-<img src="/assets/300/300-01.png" alt="Imagen 01" style="width: 50%;">
+<img src="/assets/300/300-01.png" alt="Imagen 01" style="width: 80%;">
 
 La corrección elimina el componente auxiliar heredado (*legacy helper*), escapa el separador IPC y añade medidas de seguridad adicionales cuando llegan diferentes tipos de registros a través de la misma conexión.
 
