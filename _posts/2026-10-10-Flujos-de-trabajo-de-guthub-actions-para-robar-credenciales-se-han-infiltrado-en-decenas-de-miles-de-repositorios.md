@@ -27,7 +27,7 @@ La cadena de ataque completa se desarrolla de la siguiente manera:
 - Se inyecta un flujo de trabajo que simula ser una auditoría de seguridad en la rama principal, utilizando la identidad de la víctima.
 - La carga útil incrustada extrae los datos y los envía a un punto final controlado por el atacante a través de curl.
 
-<img src="/assets/301/301-01.png" alt="Imagen 01" style="width: 80%;">
+<img src="/assets/301/301-1.png" alt="Imagen 01" style="width: 80%;">
 
 "Se activa en workflow_dispatch y en un push sin filtrar (cualquier rama, cualquier etiqueta), se extrae con fetch-depth: 0 y ejecuta un único paso de 'Auditoría' que hace cuatro cosas", añadió StepSecurity. Esto incluye:
 
