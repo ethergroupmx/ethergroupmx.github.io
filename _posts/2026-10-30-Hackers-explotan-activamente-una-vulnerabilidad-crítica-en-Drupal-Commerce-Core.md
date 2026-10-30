@@ -4,7 +4,7 @@ date: 2026-10-30 09:00:00
 categories: [VULNERABILIDADES]
 tags: [ciberseguridad, control de acceso, explotación activa, vulnerabilidades]
 description: "Ciberdelincuentes explotan una vulnerabilidad crítica en Drupal Commerce Core que permite eludir controles de autorización y acceder a funciones o datos protegidos. Se recomienda actualizar a las versiones corregidas."
-image: /assets/306/preview1.png
+image: /assets/307/preview1.png
 ---
 
 Drupal ha advertido que agentes maliciosos están explotando una vulnerabilidad de seguridad "altamente crítica" en su componente Commerce Core.
